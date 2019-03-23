@@ -20,13 +20,13 @@
         <itunes:explicit>yes</itunes:explicit>
         <itunes:category text="Discussion &amp; Natural Sciences &amp; Culture"/>
         <itunes:type>episodic</itunes:type>
-        <itunes:image href="https://concerneddabspodcast.com/media/image/itunes-image.png"/>
+        <itunes:image href="https://concerneddabspodcast.com/media/image/logo.jpg"/>
         <atom:link href="http://concerneddabspodcast.com/rss.xml" rel="self" type="application/rss+xml" />
         <copyright>
             Copyright 2019, Concerned Dabs Podcast.
         </copyright>
         <image>
-            <url>http://concerneddabspodcast.com/media/image/favico.png</url>
+            <url>http://concerneddabspodcast.com/media/image/logo.jpg</url>
             <title>Concerned Dabs Podcast</title>
             <link>http://concerneddabspodcast.com/rss.xml</link>
         </image>
@@ -38,9 +38,9 @@
             <itunes:title>Concerned Dabs Podcast - Test item </itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>Cannabis industry commentary</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/itunes-image.png"/>
-            <itunes:keywords>Phil in the Blanks,Piers Morgan,Podcast,Dr. Phil</itunes:keywords>
-            <itunes:duration>01:14:56</itunes:duration>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:03:00</itunes:duration>
             <enclosure url="http://cioncerneddabspodcast.com/media/show/0001.mp3" type="audio/mpeg" length="0"/>
         </item>
     </channel>
