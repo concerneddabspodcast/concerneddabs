@@ -18,7 +18,7 @@
         </itunes:summary>
         <language>en</language>
         <itunes:explicit>yes</itunes:explicit>
-        <itunes:category text="Natural Sciences &amp; Culture"/>
+        <itunes:category text="Discussion &amp; Natural Sciences &amp; Culture"/>
         <itunes:type>episodic</itunes:type>
         <itunes:image href="https://concerneddabspodcast.com/media/image/itunes-image.png"/>
         <atom:link href="http://concerneddabspodcast.com/rss.xml" rel="self" type="application/rss+xml" />
