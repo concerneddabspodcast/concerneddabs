@@ -18,9 +18,9 @@
         </image>
         <item>
             <guid>http://concerneddabs.com/#0001</guid>
-            <title>News of today</title>
+            <title>Concerned Dabs Podcast feed</title>
             <link>http://concerneddabs.com/#0001</link>
-            <description>All you need to know about RSS</description>
+            <description>This is the very first podcast feed item for the Concerned Dabs Podcast</description>
         </item>
     </channel>
 </rss>
