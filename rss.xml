@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-    xmlns:atom="http://www.w3.org/2005/Atom">
-    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>Concerned Dabs Podcast</title>
         <link>http://concerneddabspodcast.com/rss.xml</link>
         <description>Marijuana industry discussion</description>
         <lastBuildDate>Fri, 22 Mar 2019 19:19:00 PST</lastBuildDate>
         <language>en-us</language>
+        <itunes:owner>
+            <itunes:name>Concerned Dabs Podcast</itunes:name>
+            <itunes:email>podcast@concerneddabspodcast.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Concerned Dabs Podcast</itunes:author>
+        <itunes:summary>
+            <![CDATA[<p>Cannabis industry commentary http://concerneddabspodcast.com/</p>]]>
+        </itunes:summary>
+        <language>en</language>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:category text="Natural Sciences &amp; Culture"/>
+        <itunes:type>episodic</itunes:type>
+        <itunes:image href="https://concerneddabspodcast.com/media/image/itunes-image.png"/>
         <atom:link href="http://concerneddabspodcast.com/rss.xml" rel="self" type="application/rss+xml" />
         <copyright>
             Copyright 2019, Concerned Dabs Podcast.
@@ -22,6 +35,13 @@
             <title>Concerned Dabs Podcast feed</title>
             <link>http://concerneddabspodcast.com/#0001</link>
             <description>This is the very first podcast feed item for the Concerned Dabs Podcast. Nothing cool here yet</description>
+            <itunes:title>Concerned Dabs Podcast - Test item </itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>Cannabis industry commentary</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/itunes-image.png"/>
+            <itunes:keywords>Phil in the Blanks,Piers Morgan,Podcast,Dr. Phil</itunes:keywords>
+            <itunes:duration>01:14:56</itunes:duration>
+            <enclosure url="http://cioncerneddabspodcast.com/media/show/0001.mp3" type="audio/mpeg" length="0"/>
         </item>
     </channel>
 </rss>
