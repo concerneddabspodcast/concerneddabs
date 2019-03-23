@@ -1,26 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
     xmlns:atom="http://www.w3.org/2005/Atom">
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     <channel>
         <title>Concerned Dabs Podcast</title>
-        <link>http://concerneddabs.com/rss.xml</link>
+        <link>http://concerneddabspodcast.com/rss.xml</link>
         <description>Marijuana industry discussion</description>
         <lastBuildDate>Fri, 22 Mar 2019 19:19:00 PST</lastBuildDate>
         <language>en-us</language>
-        <atom:link href="http://concerneddabs.com/rss.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://concerneddabspodcast.com/rss.xml" rel="self" type="application/rss+xml" />
         <copyright>
             Copyright 2019, Concerned Dabs Podcast.
         </copyright>
         <image>
-            <url>http://concerneddabs.com/media/image/favico.png</url>
+            <url>http://concerneddabspodcast.com/media/image/favico.png</url>
             <title>Concerned Dabs Podcast</title>
-            <link>http://concerneddabs.com/rss.xml</link>
+            <link>http://concerneddabspodcast.com/rss.xml</link>
         </image>
         <item>
-            <guid>http://concerneddabs.com/#0001</guid>
+            <guid>http://concerneddabspodcast.com/#0001</guid>
             <title>Concerned Dabs Podcast feed</title>
-            <link>http://concerneddabs.com/#0001</link>
-            <description>This is the very first podcast feed item for the Concerned Dabs Podcast</description>
+            <link>http://concerneddabspodcast.com/#0001</link>
+            <description>This is the very first podcast feed item for the Concerned Dabs Podcast. Nothing cool here yet</description>
         </item>
     </channel>
 </rss>
