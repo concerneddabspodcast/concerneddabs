@@ -6,7 +6,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>http://concerneddabspodcast.com/rss.xml</link>
         <description>Marijuana industry discussion</description>
-        <lastBuildDate>Fri, 22 Mar 2019 19:19:00 PST</lastBuildDate>
+        <lastBuildDate>Sat, 23 Mar 2019 17:50:00 PST</lastBuildDate>
         <language>en-us</language>
         <itunes:owner>
             <itunes:name>Concerned Dabs Podcast</itunes:name>
@@ -20,7 +20,7 @@
         <itunes:explicit>yes</itunes:explicit>
         <itunes:category text="Discussion &amp; Natural Sciences &amp; Culture"/>
         <itunes:type>episodic</itunes:type>
-        <itunes:image href="https://concerneddabspodcast.com/media/image/logo.jpg"/>
+        <itunes:image href="http://concerneddabspodcast.com/media/image/logo.jpg"/>
         <atom:link href="http://concerneddabspodcast.com/rss.xml" rel="self" type="application/rss+xml" />
         <copyright>
             Copyright 2019, Concerned Dabs Podcast.
@@ -31,17 +31,18 @@
             <link>http://concerneddabspodcast.com/rss.xml</link>
         </image>
         <item>
-            <guid>http://concerneddabspodcast.com/#0001</guid>
-            <title>Concerned Dabs Podcast feed</title>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0001</guid>
+            <title>Concerned Dabs Podcast</title>
             <link>http://concerneddabspodcast.com/#0001</link>
             <description>This is the very first podcast feed item for the Concerned Dabs Podcast. Nothing cool here yet</description>
+            <pubDate>Sat, 23 Mar 2019 17:50:00 PST</pubDate>
             <itunes:title>Concerned Dabs Podcast - Test item </itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>Cannabis industry commentary</itunes:summary>
             <itunes:image href="http://concerneddabspodcast.com/media/image/logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>00:03:00</itunes:duration>
-            <enclosure url="http://cioncerneddabspodcast.com/media/show/0001.mp3" type="audio/mpeg" length="0"/>
+            <enclosure url="http://concerneddabspodcast.com/media/show/0001.mp3" type="audio/mpeg" length="28672"/>
         </item>
     </channel>
 </rss>
