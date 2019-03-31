@@ -6,12 +6,12 @@
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136829409-1"></script>
-    <script>
+    <!-- <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
         gtag('config', 'UA-136829409-1');
-    </script>
+    </script> -->
 
     <meta charset="utf-8">
     <meta name="author" content="Mitchell Wilson">
@@ -38,7 +38,7 @@
 
     <!-- icons -->
     <link rel="canonical" href="http://concerneddabspodcast.com/" />
-    <link rel="icon" type="image/png" href="media/image/favicon.png">
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
     <link rel="fluid-icon" href="media/image/fluidicon.png" title="DABS">
     <link rel="apple-touch-icon" sizes="57x57" href="media/image/apple-touch-icon-57.png">
     <link rel="apple-touch-icon" sizes="114x114" href="media/image/apple-touch-icon-114.png">
@@ -58,30 +58,37 @@
 
     <div class="wrapper">
 
+        <header class="content-header">
+            <h1>
+                <a href=".">
+                    <img src="media/image/logos/concerned-dabs-podcast-logo.jpg"
+                        alt="Concerned Dabs Podcast logo">
+                </a>
+            </h1>
+        </header>
+
         <section class="content-main">
 
-            <h1>Concerned Dabs Podcast</h1>
-
-            <section id="clockdiv">
-                <div>
+            <section class="countdown-container">
+                <div class="countdown-item">
                     <span class="days"></span>
-                    <div class="smalltext">Days</div>
+                    <span class="text">Days</span>
                 </div>
-                <div>
+                <div class="countdown-item">
                     <span class="hours"></span>
-                    <div class="smalltext">Hours</div>
+                    <span class="text">Hours</span>
                 </div>
-                <div>
+                <div class="countdown-item">
                     <span class="minutes"></span>
-                    <div class="smalltext">Minutes</div>
+                    <span class="text">Minutes</span>
                 </div>
-                <div>
+                <div class="countdown-item">
                     <span class="seconds"></span>
-                    <div class="smalltext">Seconds</div>
+                    <span class="text">Seconds</span>
                 </div>
             </section>
 
-            <section class="content-social-media">
+            <section class="social-media-links">
                 <a href="https://www.youtube.com/channel/UC44bm-7caYl9AOA0pqDuG_A">
                     <img src="media/image/social-media/youtube_social_squircle_red.png" alt="youtube social media icon">
                 </a>
@@ -98,23 +105,54 @@
                     <img src="media/image/social-media/Twitter_Social_Icon_Rounded_Square_Color.svg"
                         alt="twitter social media icon">
                 </a>
+                <a href="https://discord.gg/TyMFHAT">
+                    <img src="media/image/social-media/Discord-Logo-Color.svg" alt="discord icon">
+                </a>
             </section>
 
-            <section class="content-podcast">
+            <section class="podcast-links">
+                <a href="https://podcasts.google.com/?feed=aHR0cDovL2NvbmNlcm5lZGRhYnNwb2RjYXN0LmNvbS9yc3MueG1s">
+                    <img src="media/image/logos/google_podcasts_badge@8x.png"
+                        alt="Listen to Concerned Dabs Podcast on Google Podcasts">
+                </a>
+                <a href="https://itunes.apple.com/us/podcast/concerned-dabs-podcast/id1457475070">
+                    <img src="media/image/logos/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg"
+                        alt="Listen to Concerned Dabs Podcast on Apple Podcasts">
+                </a>
+                <!-- <a href="https://play.google.com/music/m/Iwjoyjoos3x7xwgvz76e7f52kfa">
+                    <img src="media/image/logos/google-play-badge.png"
+                        alt="Listen to Concerned Dabs Podcast on Google Play Music">
+                </a>
+                <a href="https://open.spotify.com/show/19NUw2kTcYwOkrsDahknxG">
+                    <img src="media/image/logos/spotify-podcast-badge-blk-grn-660x160.svg"
+                        alt="Listen to Concerned Dabs Podcast on Spotify">
+                </a>
+                <a href="https://www.stitcher.com/podcast/concerned-dabs-podcast">
+                    <img src="media/image/logos/stitcher-header-logo-2.png"
+                        alt="Listen to Concerned Dabs Podcast on Stitcher">
+                </a>
                 <a href="https://pca.st/Q9kD">
-                    <img src="media/image/logos/pocketcasts_small_dark.svg"
-                        alt="pocket casts logo">
+                    <img src="media/image/logos/pocketcasts_large_dark.svg"
+                        alt="Listen to Concerned Dabs Podcast on Pocket Casts">
                 </a>
                 <a href="https://castbox.fm/ch/2061718">
-                    <img src="media/image/logos/Castbox_Badge_Small_Light.svg"
-                        alt="castbox.fm logo">
+                    <img src="media/image/logos/Castbox_Badge_large_Light.svg"
+                        alt="Listen to Concerned Dabs Podcast on Castbox">
                 </a>
+                <a href="https://radiopublic.com/concerned-dabs-podcast-WJDpL0">
+                    <img src="media/image/logos/radiopublic_button_full_color_black.png"
+                        alt="Listen to Concerned Dabs Podcast on RadioPublic">
+                </a> -->
             </section>
 
-            <section class="podcast" id="0001">
-            </section>
+            <section class="podcast" id="0001"></section>
 
         </section>
+
+        <footer class="content-footer">
+            <p>Google Podcasts and the Google Podcasts logo are trademarks of Google LLC.</p>
+            <p>Apple Podcasts and the Apple Podcasts logo are registered trademarks of Apple Inc.</p>
+        </footer>
 
     </div>
     <!-- script taken from https://codepen.io/SitePoint/pen/MwNPVq -->
@@ -136,7 +174,8 @@
         }
 
         function initializeClock(id, endtime) {
-            var clock = document.getElementById(id);
+            var clock = document.getElementsByClassName(id);
+            clock = clock[0];
             var daysSpan = clock.querySelector('.days');
             var hoursSpan = clock.querySelector('.hours');
             var minutesSpan = clock.querySelector('.minutes');
@@ -162,7 +201,7 @@
         // var deadline = new Date(Date.parse(new Date()) + 15 * 24 * 60 * 60 * 1000);
         var deadline = new Date(Date.parse(new Date('4/21/2019 8:00 PM')));
 
-        initializeClock('clockdiv', deadline);
+        initializeClock('countdown-container', deadline);
 
     </script>
 

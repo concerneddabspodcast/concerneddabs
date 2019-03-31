@@ -7,46 +7,51 @@ html, body {
     width: 100%;
 }
 
-/******************
-Flex box */
-.wrapper,
-.content-main,
-.content-social-media {
-    display: flex;
-}
-
-.content-main {
-    flex-flow: nowrap column;
-    align-items: center;
-    justify-content: center;
-}
-
-.content-social-media {
-    justify-content: space-around;
-}
-
-/**********************
-Main styles */
-.wrapper {
-    background-image: url("../media/image/bg.jpg");
+html {
+    background-attachment: fixed;
     background-color: #555555;
+    background-image: url("../media/image/bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
+
+/******************
+Wrapper styles */
+.wrapper {
+    display: flex;
+    flex-flow: nowrap column;
     height: 100%;
     width: 100%;
 }
 
-.content-main {
+/*******************
+Header styles */
+header {
+    display: flex;
+    justify-content: space-around;
     width: 100%;
 }
 
-.content-main > h1 {
+header > h1 {
     background-color: rgba(255,255,255,0.8);
     border-radius: 0.3rem;
     padding: 1rem;
-    color: rgba(0,0,0,0.8);
-    font-size: 3rem;
+}
+
+header img {
+    height: 20rem;
+    border-radius: 0.3rem;
+}
+
+/**********************
+Main styles */
+.content-main {
+    align-items: center;
+    display: flex;
+    flex-flow: nowrap column;
+    justify-content: center;
+    width: 100%;
 }
 
 .content-main > section {
@@ -55,49 +60,75 @@ Main styles */
 
 /***************
 Social media */
-.content-social-media {
+.social-media-links {
     background-color: rgba(255,255,255,0.8);
     border-radius: 0.3rem;
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: space-around;
+    max-width: 15rem;
 }
 
-.content-social-media > a {
-    background-color: rgba(180,180,180,0.8);
+.social-media-links > a {
+    background-color: rgba(255,255,255,1);
     border-radius: 0.3rem;
     margin: 0.5rem;
     padding: 1rem;
 }
 
-.content-social-media > a > img {
+.social-media-links > a > img {
     width: 2rem;
     height: 2rem;
 }
 
+/******************
+Podcast Links */
+.podcast-links {
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 0.3rem;
+    display: flex;
+    flex-flow: nowrap column;
+    justify-content: space-around;
+}
+
+.podcast-links > a {
+    background-color: rgba(255,255,255,1);
+    border-radius: 0.3rem;
+    margin: 0.5rem;
+    padding: 1rem;
+}
+
+.podcast-links > a > img {
+    height: 5rem;
+}
+
+/****************
+Footer styles */
+
 /****************
 JavaScript countdown timer
 taken from https://codepen.io/SitePoint/pen/MwNPVq */
-#clockdiv{
-	font-family: sans-serif;
-	color: rgba(0,0,0,0.8);
-	display: inline-block;
-	text-align: center;
-	font-size: 3rem;
+.countdown-container {
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 0.3rem;
+    color: rgba(0,0,0,0.8);
+    display: flex;
+    flex-flow: nowrap row;
+    font-family: sans-serif;
+    font-size: 2rem;
 }
 
-#clockdiv > div{
-	padding: 1rem;
-	border-radius: 0.3rem;
-	background: rgba(255,255,255,0.8);
-	display: inline-block;
+.countdown-container .countdown-item {
+    align-items: center;
+    background-color: rgba(255,255,255,1);
+    border-radius: 0.3rem;
+    display: flex;
+    flex-flow: nowrap column;
+    justify-content: space-around;
+    margin: 0.5rem;
+    padding: .5rem;
 }
 
-#clockdiv div > span{
-	padding: 1.5rem;
-	border-radius: 0.3rem;
-	background: rgba(180,180,180,0.8);
-	display: inline-block;
-}
-
-.smalltext{
-	padding-top: 0.5rem;
-	font-size: 1.6rem;
+.countdown-container .text {
+    font-size: 1.2rem;
 }
