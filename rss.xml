@@ -27,12 +27,12 @@
         <itunes:category text="Technology"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:type>episodic</itunes:type>
-        <itunes:image href="http://concerneddabspodcast.com/media/image/logo.jpg"/>
+        <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
         <atom:link href="http://concerneddabspodcast.com/rss.xml" rel="self" type="application/rss+xml" />
         <image>
             <url>http://concerneddabspodcast.com/media/image/logo.jpg</url>
             <title>Concerned Dabs Podcast</title>
-            <link>http://concerneddabspodcast.com/rss.xml</link>
+            <link>http://concerneddabspodcast.com</link>
         </image>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0001</guid>
