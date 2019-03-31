@@ -5,8 +5,8 @@
     xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Concerned Dabs Podcast</title>
-        <link>http://concerneddabspodcast.com/rss.xml</link>
-        <description>Marijuana industry discussion</description>
+        <link>http://concerneddabspodcast.com</link>
+        <description>Cannabis industry and culture including commentary and interviews</description>
         <lastBuildDate>Sat, 23 Mar 2019 17:50:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
@@ -17,9 +17,9 @@
             <itunes:email>podcast@concerneddabspodcast.com</itunes:email>
         </itunes:owner>
         <itunes:author>Concerned Dabs Podcast</itunes:author>
-        <itunes:subtitle>Cannabis culture and industry commentary and interviews</itunes:subtitle>
+        <itunes:subtitle>Cannabis industry and culture including commentary and interviews</itunes:subtitle>
         <itunes:summary>
-            <![CDATA[<p>Cannabis industry commentary http://concerneddabspodcast.com/</p>]]>
+            <![CDATA[<p>Cannabis industry and culture including commentary and interviews http://concerneddabspodcast.com/</p>]]>
         </itunes:summary>
         <itunes:explicit>yes</itunes:explicit>
         <itunes:category text="Society &amp; Culture"/>
@@ -30,7 +30,7 @@
         <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
         <atom:link href="http://concerneddabspodcast.com/rss.xml" rel="self" type="application/rss+xml" />
         <image>
-            <url>http://concerneddabspodcast.com/media/image/logo.jpg</url>
+            <url>http://concerneddabspodcast.com/media/image/logos/concerneddabs-podcast-logo.jpg</url>
             <title>Concerned Dabs Podcast</title>
             <link>http://concerneddabspodcast.com</link>
         </image>
@@ -42,8 +42,8 @@
             <pubDate>Sat, 23 Mar 2019 17:50:00 PST</pubDate>
             <itunes:title>Concerned Dabs Podcast - Test item </itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:summary>Cannabis industry commentary</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logo.jpg"/>
+            <itunes:summary>First show summary</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>00:00:03</itunes:duration>
             <enclosure url="http://concerneddabspodcast.com/media/show/0001-test.mp3" type="audio/mpeg" length="28672"/>
