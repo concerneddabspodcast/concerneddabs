@@ -55,7 +55,7 @@ Main styles */
 }
 
 .content-main > section {
-    margin: 2rem 0;
+    margin: .5rem 0;
 }
 
 /***************
@@ -81,6 +81,17 @@ Social media */
     height: 2rem;
 }
 
+/***************
+Youtube Embed */
+.youtube-embed {
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 0.3rem;
+    display: flex;
+    justify-content: space-around;
+    max-width: 95%;
+    padding: 0.3rem;
+}
+
 /******************
 Podcast Links */
 .podcast-links {
@@ -100,6 +111,34 @@ Podcast Links */
 
 .podcast-links > a > img {
     height: 5rem;
+}
+
+/********************
+Show List */
+.show-list {
+    background-color: rgba(255,255,255,0.8);
+    border-radius: 0.3rem;
+    display: flex;
+    flex-flow: nowrap column;
+    justify-content: space-around;
+    max-width: 95%;
+    padding: .3rem;
+}
+
+.show-list > .podcast {
+    background-color: rgba(255,255,255,1);
+    border-radius: .3rem;
+    max-width: 95%;
+    padding: 1rem;
+}
+
+.show-list > .podcast > h1 {
+    font-size: 1.6rem;
+}
+
+.show-list > .podcast > audio {
+    height: 4rem;
+    max-width: 80%;
 }
 
 /****************

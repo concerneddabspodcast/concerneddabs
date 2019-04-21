@@ -6,12 +6,14 @@
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136829409-1"></script>
-    <!-- <script>
+<!--
+    <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
         gtag('config', 'UA-136829409-1');
-    </script> -->
+    </script>
+-->
 
     <meta charset="utf-8">
     <meta name="author" content="Mitchell Wilson">
@@ -38,7 +40,7 @@
 
     <!-- icons -->
     <link rel="canonical" href="http://concerneddabspodcast.com/" />
-    <link rel="shortcut icon" type="image/png" href="favicon.png">
+    <link rel="shortcut icon" href="favico.ico">
     <link rel="fluid-icon" href="media/image/fluidicon.png" title="DABS">
     <link rel="apple-touch-icon" sizes="57x57" href="media/image/apple-touch-icon-57.png">
     <link rel="apple-touch-icon" sizes="114x114" href="media/image/apple-touch-icon-114.png">
@@ -87,7 +89,11 @@
                     <span class="text">Seconds</span>
                 </div>
             </section>
-
+<!--
+            <section class="youtube-embed">
+                <iframe width="320" height="240" src="https://www.youtube.com/embed/XMORVIGGc6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </section>
+-->
             <section class="social-media-links">
                 <a href="https://www.youtube.com/channel/UC44bm-7caYl9AOA0pqDuG_A">
                     <img src="media/image/social-media/youtube_social_squircle_red.png" alt="youtube social media icon">
@@ -145,11 +151,23 @@
                 </a> -->
             </section>
 
-            <section class="podcast" id="0001"></section>
+<!--
+            <section class="show-list">
+                <div class="podcast" id="0001">
+                    <h1>Concerned Dabs Podcast - #1</h1>
+                    <p>Description goes here.</p>
+                    <audio controls>
+                        <source src="media/show/cdp.0001.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                </div>
+            </section>
+-->
 
         </section>
 
         <footer class="content-footer">
+            <p>Concerned Dabs Podcast is copyright 2019.</p>
             <p>Google Podcasts and the Google Podcasts logo are trademarks of Google LLC.</p>
             <p>Apple Podcasts and the Apple Podcasts logo are registered trademarks of Apple Inc.</p>
         </footer>
@@ -190,6 +208,10 @@
                 secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
 
                 if (t.total <= 0) {
+                    daysSpan.innerHTML = 0;
+                    hoursSpan.innerHTML = 0;
+                    minutesSpan.innerHTML = 0;
+                    secondsSpan.innerHTML = 0;
                     clearInterval(timeinterval);
                 }
             }
@@ -199,7 +221,7 @@
         }
 
         // var deadline = new Date(Date.parse(new Date()) + 15 * 24 * 60 * 60 * 1000);
-        var deadline = new Date(Date.parse(new Date('4/21/2019 8:00 PM')));
+        var deadline = new Date(Date.parse(new Date('4/21/2019 8:00 PM PDT')));
 
         initializeClock('countdown-container', deadline);
 
