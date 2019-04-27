@@ -38,15 +38,15 @@
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0001</guid>
             <title>Concerned Dabs Podcast</title>
             <link>http://concerneddabspodcast.com/#0001</link>
-            <description>Concerned Dabs Podcast #1 with guests: Jackson McCormack of Natural Wonders, Josh Galbraith of Kaya Shack, Nealio Diemert of Stoner Royalty.</description>
-            <pubDate>Sun, 21 Apr 2019 16:01:00 PST</pubDate>
-            <itunes:title>Concerned Dabs Podcast - #1</itunes:title>
+            <description>Concerned Dabs Podcast #1 with guests: Jackson McCormack of Natural Wonders, Josh Galbraith of Kaya Shack.</description>
+            <pubDate>Sun, 21 Apr 2019 21:40:00 PST</pubDate>
+            <itunes:title>Concerned Dabs Podcast - #1 Retail</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:summary>Guests: Jackson McCormack of Natural Wonders, Josh Galbraith of Kaya Shack, Nealio Diemert of Stoner Royalty.</itunes:summary>
+            <itunes:summary>Guests: Jackson McCormack of Natural Wonders, Josh Galbraith of Kaya Shack.</itunes:summary>
             <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
-            <itunes:duration>00:00:03</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0001.mp3" type="audio/mpeg" length="28672"/>
+            <itunes:duration>01:27:36</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0001.jmccormack.jgalbraith.mp3" type="audio/mpeg" length="84107264"/>
         </item>
     </channel>
 </rss>
