@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>http://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Sat, 23 Mar 2019 17:50:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2019 20:16:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2019 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>http://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0002</guid>
+            <title>Concerned Dabs Podcast</title>
+            <link>http://concerneddabspodcast.com/#0002</link>
+            <description>Concerned Dabs Podcast #2 with guests: Noah Bentley of Salvation Farms and Joshua Steensland of Steensland Consulting.</description>
+            <pubDate>Mon, 29 Apr 2019 20:16:00 PST</pubDate>
+            <itunes:title>Concerned Dabs Podcast - #2 Cultivation</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>Concerned Dabs Podcast #2 with guests: Noah Bentley of Salvation Farms and Joshua Steensland of Steensland Consulting.</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:03:05</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0002.nbentley.jsteensland.mp3" type="audio/mpeg" length="60563456"/>
+        </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0001</guid>
             <title>Concerned Dabs Podcast</title>
