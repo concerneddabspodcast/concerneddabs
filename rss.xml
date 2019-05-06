@@ -35,10 +35,24 @@
             <link>http://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0003</guid>
+            <title>Concerned Dabs Podcast</title>
+            <link>http://concerneddabspodcast.com/#0003</link>
+            <description>Concerned Dabs Podcast #3 Solvent Extraction with Kady Kane and Will Terps</description>
+            <pubDate>Sun, 05 May 2019 22:32:00 PST</pubDate>
+            <itunes:title>Concerned Dabs Podcast - #3 Solvent Extraction</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>Concerned Dabs Podcast #3</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:01:04</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0003.mp3" type="audio/mpeg" length="58630144"/>
+        </item>
+        <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0002</guid>
             <title>Concerned Dabs Podcast</title>
             <link>http://concerneddabspodcast.com/#0002</link>
-            <description>Concerned Dabs Podcast #2 with guests: Noah Bentley of Salvation Farms and Joshua Steensland of Steensland Consulting.</description>
+            <description>Concerned Dabs Podcast #2 Cultivation with guests: Noah Bentley of Salvation Farms and Joshua Steensland of Steensland Consulting.</description>
             <pubDate>Mon, 29 Apr 2019 20:16:00 PST</pubDate>
             <itunes:title>Concerned Dabs Podcast - #2 Cultivation</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
@@ -52,7 +66,7 @@
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0001</guid>
             <title>Concerned Dabs Podcast</title>
             <link>http://concerneddabspodcast.com/#0001</link>
-            <description>Concerned Dabs Podcast #1 with guests: Jackson McCormack of Natural Wonders, Josh Galbraith of Kaya Shack.</description>
+            <description>Concerned Dabs Podcast #1 Retail with guests: Jackson McCormack of Natural Wonders, Josh Galbraith of Kaya Shack.</description>
             <pubDate>Sun, 21 Apr 2019 21:40:00 PST</pubDate>
             <itunes:title>Concerned Dabs Podcast - #1 Retail</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
