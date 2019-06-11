@@ -68,29 +68,7 @@
         </header>
 
         <section class="content-main">
-<!--
-            <section class="countdown-container">
-                <div class="countdown-item">
-                    <span class="days"></span>
-                    <span class="text">Days</span>
-                </div>
-                <div class="countdown-item">
-                    <span class="hours"></span>
-                    <span class="text">Hours</span>
-                </div>
-                <div class="countdown-item">
-                    <span class="minutes"></span>
-                    <span class="text">Minutes</span>
-                </div>
-                <div class="countdown-item">
-                    <span class="seconds"></span>
-                    <span class="text">Seconds</span>
-                </div>
-            </section>
-            <section class="youtube-embed">
-                <iframe width="320" height="240" src="https://www.youtube.com/embed/XMORVIGGc6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </section>
--->
+
             <section class="social-media-links">
                 <a href="https://www.youtube.com/channel/UC44bm-7caYl9AOA0pqDuG_A" target="_blank">
                     <img src="media/image/social-media/youtube_social_squircle_red.png" alt="youtube social media icon">
@@ -153,6 +131,14 @@
             </section>
 
             <section class="show-list">
+                <div class="podcast" id="0007">
+                    <h1>Concerned Dabs Podcast - #7 Regulation</h1>
+                    <p>Jason Ortiz from Minority Cannabis Businesss Association talks about regulation and what we can do to help.</p>
+                    <audio controls>
+                        <source src="media/show/cdp.0007.jortiz.mp3" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                    </audio>
+                </div>
                 <div class="podcast" id="0006">
                     <h1>Concerned Dabs Podcast - #6 Lab Testing</h1>
                     <p>Lab testing with Paul Swift of Chem History and Anthony Smith of EVIO Labs.</p>
@@ -217,61 +203,6 @@
         </footer>
 
     </div>
-<!-- script taken from https://codepen.io/SitePoint/pen/MwNPVq -->
-<!--
-    <script>
-
-        function getTimeRemaining(endtime) {
-            var t = Date.parse(endtime) - Date.parse(new Date());
-            var seconds = Math.floor((t / 1000) % 60);
-            var minutes = Math.floor((t / 1000 / 60) % 60);
-            var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
-            var days = Math.floor(t / (1000 * 60 * 60 * 24));
-            return {
-                'total': t,
-                'days': days,
-                'hours': hours,
-                'minutes': minutes,
-                'seconds': seconds
-            };
-        }
-
-        function initializeClock(id, endtime) {
-            var clock = document.getElementsByClassName(id);
-            clock = clock[0];
-            var daysSpan = clock.querySelector('.days');
-            var hoursSpan = clock.querySelector('.hours');
-            var minutesSpan = clock.querySelector('.minutes');
-            var secondsSpan = clock.querySelector('.seconds');
-
-            function updateClock() {
-                var t = getTimeRemaining(endtime);
-
-                daysSpan.innerHTML = t.days;
-                hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
-                minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
-                secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
-
-                if (t.total <= 0) {
-                    daysSpan.innerHTML = 0;
-                    hoursSpan.innerHTML = 0;
-                    minutesSpan.innerHTML = 0;
-                    secondsSpan.innerHTML = 0;
-                    clearInterval(timeinterval);
-                }
-            }
-
-            updateClock();
-            var timeinterval = setInterval(updateClock, 1000);
-        }
-
-        // var deadline = new Date(Date.parse(new Date()) + 15 * 24 * 60 * 60 * 1000);
-        var deadline = new Date(Date.parse(new Date('4/21/2019 8:00 PM PDT')));
-
-        initializeClock('countdown-container', deadline);
-
-    </script>
--->
 
 </body>
 
