@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>http://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Mon, 3 Jun 2019 21:26:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2019 21:26:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2019 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>http://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0008</guid>
+            <title>Concerned Dabs Podcast</title>
+            <link>http://concerneddabspodcast.com/#0008</link>
+            <description>Concerned Dabs Podcast #8 Budtending with Rich Axtell, LaRain Miller, and Kathryn Lipp.</description>
+            <pubDate>Mon, 10 Jun 2019 21:26:00 PST</pubDate>
+            <itunes:title>Concerned Dabs Podcast #8 Budtending with Rich Axtell, LaRain Miller, and Kathryn Lipp.</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>Concerned Dabs Podcast #8</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:28:47</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0008.raxtell.lmiller.klipp.mp3" type="audio/mpeg" length="93675520"/>
+        </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0007</guid>
             <title>Concerned Dabs Podcast</title>
@@ -98,7 +112,7 @@
             <pubDate>Sun, 05 May 2019 22:32:00 PST</pubDate>
             <itunes:title>Concerned Dabs Podcast - #3 Solvent Extraction</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:summary>Concerned Dabs Podcast #3</itunes:summary>
+            <itunes:summary>Concerned Dabs Podcast #3 Solvent Extraction with Kady Kane and Will Terps</itunes:summary>
             <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:01:04</itunes:duration>
