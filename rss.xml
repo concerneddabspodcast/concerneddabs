@@ -35,6 +35,20 @@
             <link>http://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0009</guid>
+            <title>Concerned Dabs Podcast</title>
+            <link>http://concerneddabspodcast.com/#0009</link>
+            <description>Concerned Dabs Podcast #9 One Eye RC, creator of Dog Walker OG</description>
+            <pubDate>Mon, 17 Jun 2019 21:28:00 PST</pubDate>
+            <itunes:title>Concerned Dabs Podcast #9 One Eye RC, creator of Dog Walker OG</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>Concerned Dabs Podcast #9</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:11:39</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0009.oneeye.mp3" type="audio/mpeg" length="68796416"/>
+        </item>
+        <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0008</guid>
             <title>Concerned Dabs Podcast</title>
             <link>http://concerneddabspodcast.com/#0008</link>
