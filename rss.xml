@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>http://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Mon, 10 Jun 2019 21:26:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 8 Jul 2019 21:12:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2019 Concerned Dabs Podcast
@@ -35,12 +35,26 @@
             <link>http://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0012</guid>
+            <title>#12 Ryan Lutz talks about multi-state production with Pollen Nation Elite Genetics, Elephant Extracts, Elephant Farms, and Sweet Leaf Extractors</title>
+            <link>http://concerneddabspodcast.com/#0012</link>
+            <description>#12 Ryan Lutz talks about multi-state production with Pollen Nation Elite Genetics, Elephant Extracts, Elephant Farms, and Sweet Leaf Extractors</description>
+            <pubDate>Mon, 8 Jul 2019 21:12:00 PST</pubDate>
+            <itunes:title>#12 Ryan Lutz talks about multi-state production with Pollen Nation Elite Genetics, Elephant Extracts, Elephant Farms, and Sweet Leaf Extractors</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>Concerned Dabs Podcast #12</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:59:50</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0011.pig.farmer.mp3" type="audio/mpeg" length="115056640"/>
+        </item>
+        <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0011</guid>
-            <title>Concerned Dabs Podcast</title>
+            <title>#11 Pig Farmer talks cannabis cultivation, coral reefs, and brown weed</title>
             <link>http://concerneddabspodcast.com/#0011</link>
-            <description>#11 Pig Farmer</description>
+            <description>#11 Pig Farmer talks cannabis cultivation, coral reefs, and brown weed</description>
             <pubDate>Mon, 1 Jul 2019 22:15:00 PST</pubDate>
-            <itunes:title>#11 Pig Farmer talks cannabis cultivation, coral reefs, and brown weed.</itunes:title>
+            <itunes:title>#11 Pig Farmer talks cannabis cultivation, coral reefs, and brown weed</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>Concerned Dabs Podcast #11</itunes:summary>
             <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
@@ -50,11 +64,11 @@
         </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0010</guid>
-            <title>Concerned Dabs Podcast</title>
+            <title>#10 Kady Kane and Will Terps celebrate the tenth show</title>
             <link>http://concerneddabspodcast.com/#0010</link>
-            <description>#10 Kady Kane and Will Terps</description>
+            <description>#10 Kady Kane and Will Terps celebrate the tenth show</description>
             <pubDate>Mon, 24 Jun 2019 21:41:00 PST</pubDate>
-            <itunes:title>#10 Kady Kane and Will Terps celebrate the tenth show.</itunes:title>
+            <itunes:title>#10 Kady Kane and Will Terps celebrate the tenth show</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>Concerned Dabs Podcast #10</itunes:summary>
             <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
@@ -64,11 +78,11 @@
         </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0009</guid>
-            <title>Concerned Dabs Podcast</title>
+            <title>#9 One Eye RC, creator of Dog Walker OG</title>
             <link>http://concerneddabspodcast.com/#0009</link>
             <description>#9 One Eye RC, creator of Dog Walker OG</description>
             <pubDate>Mon, 17 Jun 2019 21:28:00 PST</pubDate>
-            <itunes:title>Concerned Dabs Podcast #9 One Eye RC, creator of Dog Walker OG</itunes:title>
+            <itunes:title>#9 One Eye RC, creator of Dog Walker OG</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>Concerned Dabs Podcast #9</itunes:summary>
             <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
@@ -78,11 +92,11 @@
         </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0008</guid>
-            <title>Concerned Dabs Podcast</title>
+            <title>#8 Budtending with Rich Axtell, LaRain Miller, and Kathryn Lipp</title>
             <link>http://concerneddabspodcast.com/#0008</link>
-            <description>#8 Budtending with Rich Axtell, LaRain Miller, and Kathryn Lipp.</description>
+            <description>#8 Budtending with Rich Axtell, LaRain Miller, and Kathryn Lipp</description>
             <pubDate>Mon, 10 Jun 2019 21:26:00 PST</pubDate>
-            <itunes:title># 8 Budtending with Rich Axtell, LaRain Miller, and Kathryn Lipp.</itunes:title>
+            <itunes:title>#8 Budtending with Rich Axtell, LaRain Miller, and Kathryn Lipp</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>Concerned Dabs Podcast #8</itunes:summary>
             <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
@@ -92,11 +106,11 @@
         </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0007</guid>
-            <title>Concerned Dabs Podcast</title>
+            <title>#7 Jason Ortiz of Minority Cannabis Business Association talks regulation and legislature</title>
             <link>http://concerneddabspodcast.com/#0007</link>
-            <description>#7 Jason Ortiz</description>
+            <description>#7 Jason Ortiz of Minority Cannabis Business Associationtalks regulation and legislature</description>
             <pubDate>Mon, 3 Jun 2019 21:26:00 PST</pubDate>
-            <itunes:title>#7 Json Ortiz talks regulation and legislature</itunes:title>
+            <itunes:title>#7 Jason Ortiz of Minority Cannabis Business Associationtalks regulation and legislature</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>Concerned Dabs Podcast #7</itunes:summary>
             <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
@@ -106,9 +120,9 @@
         </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0006</guid>
-            <title>Concerned Dabs Podcast</title>
+            <title>#6 Lab testing with Paul Swift of Chem History and Anthony Smith of EVIO Labs</title>
             <link>http://concerneddabspodcast.com/#0006</link>
-            <description>#6 Lab testing</description>
+            <description>#6 Lab testing with Paul Swift of Chem History and Anthony Smith of EVIO Labs</description>
             <pubDate>Mon, 27 May 2019 18:11:00 PST</pubDate>
             <itunes:title>#6 Lab testing with Paul Swift of Chem History and Anthony Smith of EVIO Labs</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
@@ -120,9 +134,9 @@
         </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0005</guid>
-            <title>Concerned Dabs Podcast</title>
+            <title>#5 Breeding with Elephant Smiley and Noah Bentley</title>
             <link>http://concerneddabspodcast.com/#0005</link>
-            <description>#5 Breeding</description>
+            <description>#5 Breeding with Elephant Smiley and Noah Bentley</description>
             <pubDate>Mon, 20 May 2019 21:31:00 PST</pubDate>
             <itunes:title>#5 Breeding with Elephant Smiley and Noah Bentley</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
@@ -134,9 +148,9 @@
         </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0004</guid>
-            <title>Concerned Dabs Podcast</title>
+            <title>#4 Solventless Extraction with Anthony O'Bannon</title>
             <link>http://concerneddabspodcast.com/#0004</link>
-            <description>#4 Solventless extraction</description>
+            <description>#4 Solventless Extraction with Anthony O'Bannon</description>
             <pubDate>Sun, 12 May 2019 22:24:00 PST</pubDate>
             <itunes:title>#4 Solventless Extraction with Anthony O'Bannon</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
@@ -148,9 +162,9 @@
         </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0003</guid>
-            <title>Concerned Dabs Podcast</title>
+            <title>#3 Solvent Extraction with Kady Kane and Will Terps</title>
             <link>http://concerneddabspodcast.com/#0003</link>
-            <description>#3 Solvent Extraction</description>
+            <description>#3 Solvent Extraction with Kady Kane and Will Terps</description>
             <pubDate>Sun, 05 May 2019 22:32:00 PST</pubDate>
             <itunes:title>#3 Solvent Extraction with Kady Kane and Will Terps</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
@@ -162,11 +176,11 @@
         </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0002</guid>
-            <title>Concerned Dabs Podcast</title>
+            <title>#2 Cultivation with Noah Bentley of Salvation Farms and Joshua Steensland of Steensland Consulting</title>
             <link>http://concerneddabspodcast.com/#0002</link>
-            <description>#2 Cultivation</description>
+            <description>#2 Cultivation with Noah Bentley of Salvation Farms and Joshua Steensland of Steensland Consulting</description>
             <pubDate>Mon, 29 Apr 2019 20:16:00 PST</pubDate>
-            <itunes:title>#2 Cultivation with Noah Bentley of Salvation Farms and Joshua Steensland of Steensland Consulting.</itunes:title>
+            <itunes:title>#2 Cultivation with Noah Bentley of Salvation Farms and Joshua Steensland of Steensland Consulting</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>Concerned Dabs Podcast #2</itunes:summary>
             <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
@@ -176,11 +190,11 @@
         </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0001</guid>
-            <title>Concerned Dabs Podcast</title>
+            <title>#1 Retail with Jackson McCormack of Natural Wonders, Josh Galbraith of Kaya Shack</title>
             <link>http://concerneddabspodcast.com/#0001</link>
-            <description>#1 Retail</description>
+            <description>#1 Retail with Jackson McCormack of Natural Wonders, Josh Galbraith of Kaya Shack</description>
             <pubDate>Sun, 21 Apr 2019 21:40:00 PST</pubDate>
-            <itunes:title>#1 Retail with Jackson McCormack of Natural Wonders, Josh Galbraith of Kaya Shack.</itunes:title>
+            <itunes:title>#1 Retail with Jackson McCormack of Natural Wonders, Josh Galbraith of Kaya Shack</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>Concerned Dabs Podcast #1</itunes:summary>
             <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
