@@ -45,8 +45,8 @@
             <itunes:summary>Concerned Dabs Podcast #12</itunes:summary>
             <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
-            <itunes:duration>01:59:50</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0011.pig.farmer.mp3" type="audio/mpeg" length="115056640"/>
+            <itunes:duration>01:09:11</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0012.rlutz.mp3" type="audio/mpeg" length="66420736"/>
         </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0011</guid>
