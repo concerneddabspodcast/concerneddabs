@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>http://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Mon, 8 Jul 2019 21:12:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2019 21:00:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2019 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>http://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0013</guid>
+            <title>#13 Kaitlin Reed, Professor of Native American Studies at Humboldt State University, speaking about the ecological impacts of the Green Rush on California Indians</title>
+            <link>http://concerneddabspodcast.com/#0012</link>
+            <description>#13 Kaitlin Reed, Professor of Native American Studies at Humboldt State University, speaking about the ecological impacts of the Green Rush on California Indians</description>
+            <pubDate>Mon, 15 Jul 2019 21:00:00 PST</pubDate>
+            <itunes:title>#13 Kaitlin Reed, Professor of Native American Studies at Humboldt State University, speaking about the ecological impacts of the Green Rush on California Indians</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#13 Kaitlin Reed, Professor of Native American Studies at Humboldt State University, speaking about the ecological impacts of the Green Rush on California Indians</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:20:25</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0013.kreed.mp3" type="audio/mpeg" length="77201408"/>
+        </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0012</guid>
             <title>#12 Ryan Lutz talks about multi-state production with Pollen Nation Elite Genetics, Elephant Extracts, Elephant Farms, and Sweet Leaf Extractors</title>
