@@ -35,9 +35,23 @@
             <link>http://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0015</guid>
+            <title>#15 Moss Da Beast of Beast Mode Music Group talks hosting cannabis events, music, and Nipsey Hussle</title>
+            <link>http://concerneddabspodcast.com/#0015</link>
+            <description>#15 Moss Da Beast of Beast Mode Music Group talks hosting cannabis events, music, and Nipsey Hussle</description>
+            <pubDate>Mon, 29 Jul 2019 10:42:00 PST</pubDate>
+            <itunes:title>#15 Moss Da Beast of Beast Mode Music Group talks hosting cannabis events, music, and Nipsey Hussle</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#15 Moss Da Beast of Beast Mode Music Group talks hosting cannabis events, music, and Nipsey Hussle</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:34:21</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0013.kreed.mp3" type="audio/mpeg" length="90578944"/>
+        </item>
+        <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0014</guid>
             <title>#14 Leny Volpe from Rootz Indoor Garden Supply</title>
-            <link>http://concerneddabspodcast.com/#0012</link>
+            <link>http://concerneddabspodcast.com/#0014</link>
             <description>#14 Leny Volpe from Rootz Indoor Garden Supply</description>
             <pubDate>Tue, 23 Jul 2019 21:00:00 PST</pubDate>
             <itunes:title>#14 Leny Volpe from Rootz Indoor Garden Supply</itunes:title>
@@ -51,7 +65,7 @@
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0013</guid>
             <title>#13 Kaitlin Reed, Professor of Native American Studies at Humboldt State University, speaking about the ecological impacts of the Green Rush on California Indians</title>
-            <link>http://concerneddabspodcast.com/#0012</link>
+            <link>http://concerneddabspodcast.com/#0013</link>
             <description>#13 Kaitlin Reed, Professor of Native American Studies at Humboldt State University, speaking about the ecological impacts of the Green Rush on California Indians</description>
             <pubDate>Mon, 15 Jul 2019 21:00:00 PST</pubDate>
             <itunes:title>#13 Kaitlin Reed, Professor of Native American Studies at Humboldt State University, speaking about the ecological impacts of the Green Rush on California Indians</itunes:title>
