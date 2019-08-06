@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>http://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Tue, 23 Jul 2019 21:00:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 5 Aug 2019 21:18:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2019 Concerned Dabs Podcast
@@ -19,7 +19,7 @@
         <itunes:author>Concerned Dabs Podcast</itunes:author>
         <itunes:subtitle>Cannabis industry and culture including commentary and interviews</itunes:subtitle>
         <itunes:summary>
-            <![CDATA[<p>Cannabis industry and culture including commentary and interviews http://concerneddabspodcast.com/</p>]]>
+            <![CDATA[<p>Cannabis industry and culture including commentary and interviews https://concerneddabspodcast.com/</p>]]>
         </itunes:summary>
         <itunes:explicit>yes</itunes:explicit>
         <itunes:category text="Society &amp; Culture"/>
@@ -35,6 +35,20 @@
             <link>http://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0016</guid>
+            <title>#16 Kady Kane gives tips on passing a drug test, low-temp dabs, and cleaning a bong</title>
+            <link>http://concerneddabspodcast.com/#0015</link>
+            <description>#16 Kady Kane gives tips on passing a drug test, low-temp dabs, and cleaning a bong</description>
+            <pubDate>Mon, 5 Aug 2019 21:18:00 PST</pubDate>
+            <itunes:title>#16 Kady Kane gives tips on passing a drug test, low-temp dabs, and cleaning a bong</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#16 Kady Kane gives tips on passing a drug test, low-temp dabs, and cleaning a bong</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:28:00</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0016.mp3" type="audio/mpeg" length="26890240"/>
+        </item>
+        <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0015</guid>
             <title>#15 Moss Da Beast of Beast Mode Music Group talks hosting cannabis events, music, and Nipsey Hussle</title>
             <link>http://concerneddabspodcast.com/#0015</link>
@@ -46,21 +60,21 @@
             <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:34:21</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0013.kreed.mp3" type="audio/mpeg" length="90578944"/>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0015.mdbeast.mp3" type="audio/mpeg" length="90578944"/>
         </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0014</guid>
-            <title>#14 Leny Volpe from Rootz Indoor Garden Supply</title>
+            <title>#14 Lenny Volpe from Rootz Indoor Garden Supply</title>
             <link>http://concerneddabspodcast.com/#0014</link>
-            <description>#14 Leny Volpe from Rootz Indoor Garden Supply</description>
+            <description>#14 Lenny Volpe from Rootz Indoor Garden Supply</description>
             <pubDate>Tue, 23 Jul 2019 21:00:00 PST</pubDate>
-            <itunes:title>#14 Leny Volpe from Rootz Indoor Garden Supply</itunes:title>
+            <itunes:title>#14 Lenny Volpe from Rootz Indoor Garden Supply</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:summary>#14 Leny Volpe from Rootz Indoor Garden Supply</itunes:summary>
+            <itunes:summary>#14 Lenny Volpe from Rootz Indoor Garden Supply</itunes:summary>
             <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:30:26</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0013.kreed.mp3" type="audio/mpeg" length="86835200"/>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0014.lvolpe.mp3" type="audio/mpeg" length="86835200"/>
         </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0013</guid>
