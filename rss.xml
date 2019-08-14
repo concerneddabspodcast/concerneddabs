@@ -35,6 +35,20 @@
             <link>http://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0017</guid>
+            <title>#17 Kramer talks about solvent extraction, hydrocarbons, and the oil game in Oregon</title>
+            <link>http://concerneddabspodcast.com/#0015</link>
+            <description>#17 Kramer talks about solvent extraction, hydrocarbons, and the oil game in Oregon</description>
+            <pubDate>Tue, 13 Aug 2019 21:58:00 PST</pubDate>
+            <itunes:title>#17 Kramer talks about solvent extraction, hydrocarbons, and the oil game in Oregon</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#17 Kramer talks about solvent extraction, hydrocarbons, and the oil game in Oregon</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:18:02</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0017.kramer.mp3" type="audio/mpeg" length="74928128"/>
+        </item>
+        <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0016</guid>
             <title>#16 Kady Kane gives tips on passing a drug test, low-temp dabs, and cleaning a bong</title>
             <link>http://concerneddabspodcast.com/#0015</link>
