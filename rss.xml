@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>http://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Mon, 26 Aug 2019 20:00:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2019 11:47:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2019 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>http://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0020</guid>
+            <title>#20 Drew Sweeney of Kasher Inc. talks about being an entrepreneur</title>
+            <link>http://concerneddabspodcast.com/#0018</link>
+            <description>#20 Drew Sweeney of Kasher Inc. talks about being an entrepreneur</description>
+            <pubDate>Mon, 02 Sep 2019 11:47:00 PST</pubDate>
+            <itunes:title>#20 Drew Sweeney of Kasher Inc. talks about being an entrepreneur</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#20 Drew Sweeney of Kasher Inc. talks about being an entrepreneur</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:01:32</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0019.kkane.wterps.mp3" type="audio/mpeg" length="59088896"/>
+        </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0019</guid>
             <title>#19 Cannabis news with Kady Kane and Will Terps</title>
