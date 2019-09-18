@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>http://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Mon, 02 Sep 2019 11:47:00 PST</lastBuildDate>
+        <lastBuildDate>Tue, 17 Sep 2019 20:23:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2019 Concerned Dabs Podcast
@@ -35,9 +35,37 @@
             <link>http://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0022</guid>
+            <title>#22 Farmer Dale talks about farming and I502 production</title>
+            <link>http://concerneddabspodcast.com/#0022</link>
+            <description>#22 Farmer Dale talks about farming and I502 production</description>
+            <pubDate>Tue, 17 Sep 2019 20:23:00 PST</pubDate>
+            <itunes:title>#22 Farmer Dale talks about farming and I502 production</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#22 Farmer Dale talks about farming and I502 production</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:52:08</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0022.dale.mp3" type="audio/mpeg" length="50057216"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0021</guid>
+            <title>#21 Johnnie Walker on soil and aeroponics</title>
+            <link>http://concerneddabspodcast.com/#0021</link>
+            <description>#21 Johnnie Walker on soil and aeroponics</description>
+            <pubDate>Tue, 10 Sep 2019 21:00:00 PST</pubDate>
+            <itunes:title>#21 Johnnie Walker on soil and aeroponics</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#21 Johnnie Walker on soil and aeroponics</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:21:26</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0021.jwalker.mp3" type="audio/mpeg" length="78188544"/>
+        </item>
+        <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0020</guid>
             <title>#20 Drew Sweeney of Kasher Inc. talks about being an entrepreneur</title>
-            <link>http://concerneddabspodcast.com/#0018</link>
+            <link>http://concerneddabspodcast.com/#0020</link>
             <description>#20 Drew Sweeney of Kasher Inc. talks about being an entrepreneur</description>
             <pubDate>Mon, 02 Sep 2019 11:47:00 PST</pubDate>
             <itunes:title>#20 Drew Sweeney of Kasher Inc. talks about being an entrepreneur</itunes:title>
@@ -46,12 +74,12 @@
             <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:01:32</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0019.kkane.wterps.mp3" type="audio/mpeg" length="59088896"/>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0020.dsweeney.mp3" type="audio/mpeg" length="59088896"/>
         </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0019</guid>
             <title>#19 Cannabis news with Kady Kane and Will Terps</title>
-            <link>http://concerneddabspodcast.com/#0018</link>
+            <link>http://concerneddabspodcast.com/#0019</link>
             <description>#19 Cannabis news with Kady Kane and Will Terps</description>
             <pubDate>Mon, 26 Aug 2019 20:00:00 PST</pubDate>
             <itunes:title>#19 Cannabis news with Kady Kane and Will Terps</itunes:title>
