@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>http://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Tue, 17 Sep 2019 20:23:00 PST</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2019 21:11:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2019 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>http://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0023</guid>
+            <title>#23 Kady Kane and Will Terps</title>
+            <link>http://concerneddabspodcast.com/#0022</link>
+            <description>#23 Kady Kane and Will Terps</description>
+            <pubDate>Tue, 24 Sep 2019 21:11:00 PST</pubDate>
+            <itunes:title>#23 Kady Kane and Will Terps</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#23 Kady Kane and Will Terps</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:20:34</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0023.kkane.wterps.mp3" type="audio/mpeg" length="77357056"/>
+        </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0022</guid>
             <title>#22 Farmer Dale talks about farming and I502 production</title>
