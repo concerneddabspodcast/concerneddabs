@@ -35,9 +35,23 @@
             <link>http://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0024</guid>
+            <title>#24 Eric from Dungeon's Vault Genetics talks about creative cannabis breeding</title>
+            <link>http://concerneddabspodcast.com/#0024</link>
+            <description>#24 Eric from Dungeon's Vault Genetics talks about creative cannabis breeding</description>
+            <pubDate>Tue, 01 Oct 2019 20:46:00 PST</pubDate>
+            <itunes:title>#24 Eric from Dungeon's Vault Genetics talks about creative cannabis breeding</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#24 Eric from Dungeon's Vault Genetics talks about creative cannabis breeding</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:07:41</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0024.eric.mp3" type="audio/mpeg" length="64978944"/>
+        </item>
+        <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0023</guid>
             <title>#23 Kady Kane and Will Terps</title>
-            <link>http://concerneddabspodcast.com/#0022</link>
+            <link>http://concerneddabspodcast.com/#0023</link>
             <description>#23 Kady Kane and Will Terps</description>
             <pubDate>Tue, 24 Sep 2019 21:11:00 PST</pubDate>
             <itunes:title>#23 Kady Kane and Will Terps</itunes:title>
