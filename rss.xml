@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>http://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Tue, 24 Sep 2019 21:11:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2019 21:01:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2019 Concerned Dabs Podcast
@@ -34,6 +34,48 @@
             <title>Concerned Dabs Podcast</title>
             <link>http://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0027</guid>
+            <title>#27 Paul Swift from Swift Solutions talks about the 2019 vape crisis</title>
+            <link>http://concerneddabspodcast.com/#0027</link>
+            <description>#27 Paul Swift from Swift Solutions talks about the 2019 vape crisis</description>
+            <pubDate>Mon, 14 Oct 2019 21:01:00 PST</pubDate>
+            <itunes:title>#27 Paul Swift from Swift Solutions talks about the 2019 vape crisis</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#27 Paul Swift from Swift Solutions talks about the 2019 vape crisis</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:57:36</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0027.pswift.mp3" type="audio/mpeg" length="55312384"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0026</guid>
+            <title>#26 Kady Kane and Will Terps talk about cannabis</title>
+            <link>http://concerneddabspodcast.com/#0026</link>
+            <description>#26 Kady Kane and Will Terps talk about cannabis</description>
+            <pubDate>Mon, 14 Oct 2019 21:01:00 PST</pubDate>
+            <itunes:title>#26 Kady Kane and Will Terps talk about cannabis</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#26 Kady Kane and Will Terps talk about cannabis</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:05:38</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0026.kkane.wterps.mp3" type="audio/mpeg" length="63025152"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0025</guid>
+            <title>#25 Elaine Miles on cannabis advocacy</title>
+            <link>http://concerneddabspodcast.com/#0025</link>
+            <description>#25 Elaine Miles on cannabis advocacy</description>
+            <pubDate>Mon, 7 Oct 2019 21:18:00 PST</pubDate>
+            <itunes:title>#25 Elaine Miles on cannabis advocacy</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#25 Elaine Miles on cannabis advocacy</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:06:50</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0025.emiles.mp3" type="audio/mpeg" length="64172032"/>
+        </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0024</guid>
             <title>#24 Eric from Dungeon's Vault Genetics talks about creative cannabis breeding</title>
