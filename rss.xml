@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>http://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Mon, 28 Oct 2019 22:03:00 PST</lastBuildDate>
+        <lastBuildDate>Tue, 5 Nov 2019 22:35:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2019 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>http://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0029</guid>
+            <title>#29 Sahson Dehkordi of The Sweet Life Cannabis Sales and Distribution</title>
+            <link>http://concerneddabspodcast.com/#0029</link>
+            <description>#29 Sahson Dehkordi of The Sweet Life Cannabis Sales and Distribution</description>
+            <pubDate>Tue, 5 Nov 2019 22:35:00 PST</pubDate>
+            <itunes:title>#29 Sahson Dehkordi of The Sweet Life Cannabis Sales and Distribution</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#29 Sahson Dehkordi of The Sweet Life Cannabis Sales and Distribution</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:13:37</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0029.sdehkordi.mp3" type="audio/mpeg" length="70688768"/>
+        </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0028</guid>
             <title>#28 Kady Kane talks about cannabis</title>
