@@ -35,9 +35,23 @@
             <link>http://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0031</guid>
+            <title>#31 Kady Kane and Will Terps shoot the shit</title>
+            <link>http://concerneddabspodcast.com/#0031</link>
+            <description>#31 Kady Kane and Will Terps shoot the shit</description>
+            <pubDate>Mon, 18 Nov 2019 21:59:00 PST</pubDate>
+            <itunes:title>#31 Kady Kane and Will Terps shoot the shit</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#31 Kady Kane and Will Terps shoot the shit</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:53:13</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0031.kkane.wterps.mp3" type="audio/mpeg" length="51097600"/>
+        </item>
+        <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0030</guid>
             <title>#30 Kady Kane and Will Terps talk shop</title>
-            <link>http://concerneddabspodcast.com/#0029</link>
+            <link>http://concerneddabspodcast.com/#0030</link>
             <description>#30 Kady Kane and Will Terps talk shop</description>
             <pubDate>Mon, 11 Nov 2019 12:15:00 PST</pubDate>
             <itunes:title>#30 Kady Kane and Will Terps talk shop</itunes:title>
