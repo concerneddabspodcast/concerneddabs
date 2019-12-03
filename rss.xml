@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>http://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Mon, 11 Nov 2019 12:15:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 2 Dec 2019 21:59:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2019 Concerned Dabs Podcast
@@ -34,6 +34,34 @@
             <title>Concerned Dabs Podcast</title>
             <link>http://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0033</guid>
+            <title>#33 Mary Jane Oatman founder of Indigenous Cannabis Coalition</title>
+            <link>http://concerneddabspodcast.com/#0033</link>
+            <description>#33 Mary Jane Oatman founder of Indigenous Cannabis Coalition</description>
+            <pubDate>Mon, 2 Dec 2019 21:59:00 PST</pubDate>
+            <itunes:title>#33 Mary Jane Oatman founder of Indigenous Cannabis Coalition</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#33 Mary Jane Oatman founder of Indigenous Cannabis Coalition</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:49:55</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0033.mjoatman.mp3" type="audio/mpeg" length="47935488"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0032</guid>
+            <title>#32 Ryan Craig talks about film making</title>
+            <link>http://concerneddabspodcast.com/#0032</link>
+            <description>#32 Ryan Craig talks about film making</description>
+            <pubDate>Mon, 25 Nov 2019 22:07:00 PST</pubDate>
+            <itunes:title>#32 Ryan Craig talks about film making</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#32 Ryan Craig talks about film making</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:59:31</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0032.rcraig.mp3" type="audio/mpeg" length="57139200"/>
+        </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0031</guid>
             <title>#31 Kady Kane and Will Terps shoot the shit</title>
