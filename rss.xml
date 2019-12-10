@@ -35,6 +35,20 @@
             <link>http://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0034</guid>
+            <title>#34 Kady Kane and Will Terps talk CBD</title>
+            <link>http://concerneddabspodcast.com/#0034</link>
+            <description>#34 Kady Kane and Will Terps talk CBD</description>
+            <pubDate>Mon, 9 Dec 2019 22:16:00 PST</pubDate>
+            <itunes:title>#34 Kady Kane and Will Terps talk CBD</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#34 Kady Kane and Will Terps talk CBD</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:33:52</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0034.kkane.wterps.mp3" type="audio/mpeg" length="32530432"/>
+        </item>
+        <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0033</guid>
             <title>#33 Mary Jane Oatman founder of Indigenous Cannabis Coalition</title>
             <link>http://concerneddabspodcast.com/#0033</link>
