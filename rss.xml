@@ -35,6 +35,20 @@
             <link>http://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0035</guid>
+            <title>#35 Jackson McCormack returns to speak about retail cannabis in Oregon</title>
+            <link>http://concerneddabspodcast.com/#0035</link>
+            <description>#35 Jackson McCormack returns to speak about retail cannabis in Oregon</description>
+            <pubDate>Mon, 16 Dec 2019 21:28:00 PST</pubDate>
+            <itunes:title>#35 Jackson McCormack returns to speak about retail cannabis in Oregon</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#35 Jackson McCormack returns to speak about retail cannabis in Oregon</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:06:32</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0034.kkane.wterps.mp3" type="audio/mpeg" length="64040960"/>
+        </item>
+        <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0034</guid>
             <title>#34 Kady Kane and Will Terps talk CBD</title>
             <link>http://concerneddabspodcast.com/#0034</link>
