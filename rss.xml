@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>http://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Mon, 2 Dec 2019 21:59:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2019 22:32:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2019 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>http://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0036</guid>
+            <title>#36 Jeff Mizanskey talks about the failing drug war</title>
+            <link>http://concerneddabspodcast.com/#0036</link>
+            <description>#36 Jeff Mizanskey talks about the failing drug war</description>
+            <pubDate>Mon, 23 Dec 2019 22:32:00 PST</pubDate>
+            <itunes:title>#36 Jeff Mizanskey talks about the failing drug war</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#36 Jeff Mizanskey talks about the failing drug war</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:24:12</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0034.kkane.wterps.mp3" type="audio/mpeg" length="80846848"/>
+        </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0035</guid>
             <title>#35 Jackson McCormack returns to speak about retail cannabis in Oregon</title>
