@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>http://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Mon, 23 Dec 2019 22:32:00 PST</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2019 19:00:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2019 Concerned Dabs Podcast
@@ -35,6 +35,20 @@
             <link>http://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0037</guid>
+            <title>#37 Kady Kane talks about cannabis</title>
+            <link>http://concerneddabspodcast.com/#0037</link>
+            <description>#37 Kady Kane talks about cannabis</description>
+            <pubDate>Tue, 31 Dec 2019 19:00:00 PST</pubDate>
+            <itunes:title>#37 Kady Kane talks about cannabis</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#37 Kady Kane talks about cannabis</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:35:41</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0036.kkane.mp3" type="audio/mpeg" length="34271232"/>
+        </item>
+        <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0036</guid>
             <title>#36 Jeff Mizanskey talks about the failing drug war</title>
             <link>http://concerneddabspodcast.com/#0036</link>
@@ -46,7 +60,7 @@
             <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:24:12</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0034.kkane.wterps.mp3" type="audio/mpeg" length="80846848"/>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0036.jmizanskey.mp3" type="audio/mpeg" length="80846848"/>
         </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0035</guid>
@@ -60,7 +74,7 @@
             <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:06:32</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0034.kkane.wterps.mp3" type="audio/mpeg" length="64040960"/>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0035.jmccormack.mp3" type="audio/mpeg" length="64040960"/>
         </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0034</guid>
