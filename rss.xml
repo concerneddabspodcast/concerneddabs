@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>http://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Tue, 31 Dec 2019 19:00:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 6 Dec 2019 21:13:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2019 Concerned Dabs Podcast
@@ -35,6 +35,20 @@
             <link>http://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">http://concerneddabspodcast.com/#0038</guid>
+            <title>#38 Kady Kane talking about the state of the industry</title>
+            <link>http://concerneddabspodcast.com/#0038</link>
+            <description>#38 Kady Kane talking about the state of the industry</description>
+            <pubDate>Mon, 6 Dec 2019 21:13:00 PST</pubDate>
+            <itunes:title>#38 Kady Kane talking about the state of the industry</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#38 Kady Kane talking about the state of the industry</itunes:summary>
+            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:31:30</itunes:duration>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0038.kkane.mp3" type="audio/mpeg" length="30244864"/>
+        </item>
+        <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0037</guid>
             <title>#37 Kady Kane talks about cannabis</title>
             <link>http://concerneddabspodcast.com/#0037</link>
@@ -46,7 +60,7 @@
             <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>00:35:41</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0036.kkane.mp3" type="audio/mpeg" length="34271232"/>
+            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0037.kkane.mp3" type="audio/mpeg" length="34271232"/>
         </item>
         <item>
             <guid isPermaLink="false">http://concerneddabspodcast.com/#0036</guid>
