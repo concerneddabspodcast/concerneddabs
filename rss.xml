@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
-    xmlns:atom="http://www.w3.org/2005/Atom"
-    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    xmlns:atom="https://www.w3.org/2005/Atom"
+    xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:content="https://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Concerned Dabs Podcast</title>
-        <link>http://concerneddabspodcast.com</link>
+        <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Mon, 6 Dec 2019 21:13:00 PST</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2020 20:08:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
-            &#x2117; &amp; &#xA9; 2019 Concerned Dabs Podcast
+            &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
         </copyright>
         <itunes:owner>
             <itunes:name>Concerned Dabs Podcast</itunes:name>
@@ -27,544 +27,558 @@
         <itunes:category text="Technology"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:type>episodic</itunes:type>
-        <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
-        <atom:link href="http://concerneddabspodcast.com/rss.xml" rel="self" type="application/rss+xml" />
+        <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+        <atom:link href="https://concerneddabspodcast.com/rss.xml" rel="self" type="application/rss+xml" />
         <image>
-            <url>http://concerneddabspodcast.com/media/image/logos/concerneddabs-podcast-logo.jpg</url>
+            <url>https://concerneddabspodcast.com/media/image/logos/concerneddabs-podcast-logo.jpg</url>
             <title>Concerned Dabs Podcast</title>
-            <link>http://concerneddabspodcast.com</link>
+            <link>https://concerneddabspodcast.com</link>
         </image>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0038</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0039</guid>
+            <title>#39 Kady Kane talking about cannabis</title>
+            <link>https://concerneddabspodcast.com/#0039</link>
+            <description>#39 Kady Kane talking about cannabis</description>
+            <pubDate>Tue, 14 Jan 2020 20:08:00 PST</pubDate>
+            <itunes:title>#39 Kady Kane talking about cannabis</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#39 Kady Kane talking about cannabis</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:36:58</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0039.kkane.mp3" type="audio/mpeg" length="35500032"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0038</guid>
             <title>#38 Kady Kane talking about the state of the industry</title>
-            <link>http://concerneddabspodcast.com/#0038</link>
+            <link>https://concerneddabspodcast.com/#0038</link>
             <description>#38 Kady Kane talking about the state of the industry</description>
-            <pubDate>Mon, 6 Dec 2019 21:13:00 PST</pubDate>
+            <pubDate>Mon, 6 Jan 2020 21:13:00 PST</pubDate>
             <itunes:title>#38 Kady Kane talking about the state of the industry</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#38 Kady Kane talking about the state of the industry</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>00:31:30</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0038.kkane.mp3" type="audio/mpeg" length="30244864"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0038.kkane.mp3" type="audio/mpeg" length="30244864"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0037</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0037</guid>
             <title>#37 Kady Kane talks about cannabis</title>
-            <link>http://concerneddabspodcast.com/#0037</link>
+            <link>https://concerneddabspodcast.com/#0037</link>
             <description>#37 Kady Kane talks about cannabis</description>
             <pubDate>Tue, 31 Dec 2019 19:00:00 PST</pubDate>
             <itunes:title>#37 Kady Kane talks about cannabis</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#37 Kady Kane talks about cannabis</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>00:35:41</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0037.kkane.mp3" type="audio/mpeg" length="34271232"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0037.kkane.mp3" type="audio/mpeg" length="34271232"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0036</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0036</guid>
             <title>#36 Jeff Mizanskey talks about the failing drug war</title>
-            <link>http://concerneddabspodcast.com/#0036</link>
+            <link>https://concerneddabspodcast.com/#0036</link>
             <description>#36 Jeff Mizanskey talks about the failing drug war</description>
             <pubDate>Mon, 23 Dec 2019 22:32:00 PST</pubDate>
             <itunes:title>#36 Jeff Mizanskey talks about the failing drug war</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#36 Jeff Mizanskey talks about the failing drug war</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:24:12</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0036.jmizanskey.mp3" type="audio/mpeg" length="80846848"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0036.jmizanskey.mp3" type="audio/mpeg" length="80846848"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0035</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0035</guid>
             <title>#35 Jackson McCormack returns to speak about retail cannabis in Oregon</title>
-            <link>http://concerneddabspodcast.com/#0035</link>
+            <link>https://concerneddabspodcast.com/#0035</link>
             <description>#35 Jackson McCormack returns to speak about retail cannabis in Oregon</description>
             <pubDate>Mon, 16 Dec 2019 21:28:00 PST</pubDate>
             <itunes:title>#35 Jackson McCormack returns to speak about retail cannabis in Oregon</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#35 Jackson McCormack returns to speak about retail cannabis in Oregon</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:06:32</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0035.jmccormack.mp3" type="audio/mpeg" length="64040960"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0035.jmccormack.mp3" type="audio/mpeg" length="64040960"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0034</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0034</guid>
             <title>#34 Kady Kane and Will Terps talk CBD</title>
-            <link>http://concerneddabspodcast.com/#0034</link>
+            <link>https://concerneddabspodcast.com/#0034</link>
             <description>#34 Kady Kane and Will Terps talk CBD</description>
             <pubDate>Mon, 9 Dec 2019 22:16:00 PST</pubDate>
             <itunes:title>#34 Kady Kane and Will Terps talk CBD</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#34 Kady Kane and Will Terps talk CBD</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>00:33:52</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0034.kkane.wterps.mp3" type="audio/mpeg" length="32530432"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0034.kkane.wterps.mp3" type="audio/mpeg" length="32530432"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0033</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0033</guid>
             <title>#33 Mary Jane Oatman founder of Indigenous Cannabis Coalition</title>
-            <link>http://concerneddabspodcast.com/#0033</link>
+            <link>https://concerneddabspodcast.com/#0033</link>
             <description>#33 Mary Jane Oatman founder of Indigenous Cannabis Coalition</description>
             <pubDate>Mon, 2 Dec 2019 21:59:00 PST</pubDate>
             <itunes:title>#33 Mary Jane Oatman founder of Indigenous Cannabis Coalition</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#33 Mary Jane Oatman founder of Indigenous Cannabis Coalition</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>00:49:55</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0033.mjoatman.mp3" type="audio/mpeg" length="47935488"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0033.mjoatman.mp3" type="audio/mpeg" length="47935488"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0032</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0032</guid>
             <title>#32 Ryan Craig talks about film making</title>
-            <link>http://concerneddabspodcast.com/#0032</link>
+            <link>https://concerneddabspodcast.com/#0032</link>
             <description>#32 Ryan Craig talks about film making</description>
             <pubDate>Mon, 25 Nov 2019 22:07:00 PST</pubDate>
             <itunes:title>#32 Ryan Craig talks about film making</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#32 Ryan Craig talks about film making</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>00:59:31</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0032.rcraig.mp3" type="audio/mpeg" length="57139200"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0032.rcraig.mp3" type="audio/mpeg" length="57139200"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0031</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0031</guid>
             <title>#31 Kady Kane and Will Terps shoot the shit</title>
-            <link>http://concerneddabspodcast.com/#0031</link>
+            <link>https://concerneddabspodcast.com/#0031</link>
             <description>#31 Kady Kane and Will Terps shoot the shit</description>
             <pubDate>Mon, 18 Nov 2019 21:59:00 PST</pubDate>
             <itunes:title>#31 Kady Kane and Will Terps shoot the shit</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#31 Kady Kane and Will Terps shoot the shit</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>00:53:13</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0031.kkane.wterps.mp3" type="audio/mpeg" length="51097600"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0031.kkane.wterps.mp3" type="audio/mpeg" length="51097600"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0030</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0030</guid>
             <title>#30 Kady Kane and Will Terps talk shop</title>
-            <link>http://concerneddabspodcast.com/#0030</link>
+            <link>https://concerneddabspodcast.com/#0030</link>
             <description>#30 Kady Kane and Will Terps talk shop</description>
             <pubDate>Mon, 11 Nov 2019 12:15:00 PST</pubDate>
             <itunes:title>#30 Kady Kane and Will Terps talk shop</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#30 Kady Kane and Will Terps talk shop</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:17:40</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0030.kkane.wterps.mp3" type="audio/mpeg" length="74567680"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0030.kkane.wterps.mp3" type="audio/mpeg" length="74567680"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0029</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0029</guid>
             <title>#29 Sahson Dehkordi of The Sweet Life Cannabis Sales and Distribution</title>
-            <link>http://concerneddabspodcast.com/#0029</link>
+            <link>https://concerneddabspodcast.com/#0029</link>
             <description>#29 Sahson Dehkordi of The Sweet Life Cannabis Sales and Distribution</description>
             <pubDate>Tue, 5 Nov 2019 22:35:00 PST</pubDate>
             <itunes:title>#29 Sahson Dehkordi of The Sweet Life Cannabis Sales and Distribution</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#29 Sahson Dehkordi of The Sweet Life Cannabis Sales and Distribution</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:13:37</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0029.sdehkordi.mp3" type="audio/mpeg" length="70688768"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0029.sdehkordi.mp3" type="audio/mpeg" length="70688768"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0028</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0028</guid>
             <title>#28 Kady Kane talks about cannabis</title>
-            <link>http://concerneddabspodcast.com/#0028</link>
+            <link>https://concerneddabspodcast.com/#0028</link>
             <description>#28 Kady Kane talks about cannabis</description>
             <pubDate>Mon, 28 Oct 2019 22:03:00 PST</pubDate>
             <itunes:title>#28 Kady Kane talks about cannabis</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#28 Kady Kane talks about cannabis</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>00:28:31</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0028.kkane.mp3" type="audio/mpeg" length="27381760"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0028.kkane.mp3" type="audio/mpeg" length="27381760"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0027</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0027</guid>
             <title>#27 Paul Swift from Swift Solutions talks about the 2019 vape crisis</title>
-            <link>http://concerneddabspodcast.com/#0027</link>
+            <link>https://concerneddabspodcast.com/#0027</link>
             <description>#27 Paul Swift from Swift Solutions talks about the 2019 vape crisis</description>
             <pubDate>Tue, 22 Oct 2019 21:01:00 PST</pubDate>
             <itunes:title>#27 Paul Swift from Swift Solutions talks about the 2019 vape crisis</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#27 Paul Swift from Swift Solutions talks about the 2019 vape crisis</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>00:57:36</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0027.pswift.mp3" type="audio/mpeg" length="55312384"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0027.pswift.mp3" type="audio/mpeg" length="55312384"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0026</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0026</guid>
             <title>#26 Kady Kane and Will Terps talk about cannabis</title>
-            <link>http://concerneddabspodcast.com/#0026</link>
+            <link>https://concerneddabspodcast.com/#0026</link>
             <description>#26 Kady Kane and Will Terps talk about cannabis</description>
             <pubDate>Mon, 14 Oct 2019 21:01:00 PST</pubDate>
             <itunes:title>#26 Kady Kane and Will Terps talk about cannabis</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#26 Kady Kane and Will Terps talk about cannabis</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:05:38</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0026.kkane.wterps.mp3" type="audio/mpeg" length="63025152"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0026.kkane.wterps.mp3" type="audio/mpeg" length="63025152"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0025</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0025</guid>
             <title>#25 Elaine Miles on cannabis advocacy</title>
-            <link>http://concerneddabspodcast.com/#0025</link>
+            <link>https://concerneddabspodcast.com/#0025</link>
             <description>#25 Elaine Miles on cannabis advocacy</description>
             <pubDate>Mon, 7 Oct 2019 21:18:00 PST</pubDate>
             <itunes:title>#25 Elaine Miles on cannabis advocacy</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#25 Elaine Miles on cannabis advocacy</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:06:50</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0025.emiles.mp3" type="audio/mpeg" length="64172032"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0025.emiles.mp3" type="audio/mpeg" length="64172032"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0024</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0024</guid>
             <title>#24 Eric from Dungeon's Vault Genetics talks about creative cannabis breeding</title>
-            <link>http://concerneddabspodcast.com/#0024</link>
+            <link>https://concerneddabspodcast.com/#0024</link>
             <description>#24 Eric from Dungeon's Vault Genetics talks about creative cannabis breeding</description>
             <pubDate>Tue, 01 Oct 2019 20:46:00 PST</pubDate>
             <itunes:title>#24 Eric from Dungeon's Vault Genetics talks about creative cannabis breeding</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#24 Eric from Dungeon's Vault Genetics talks about creative cannabis breeding</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:07:41</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0024.eric.mp3" type="audio/mpeg" length="64978944"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0024.eric.mp3" type="audio/mpeg" length="64978944"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0023</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0023</guid>
             <title>#23 Kady Kane and Will Terps</title>
-            <link>http://concerneddabspodcast.com/#0023</link>
+            <link>https://concerneddabspodcast.com/#0023</link>
             <description>#23 Kady Kane and Will Terps</description>
             <pubDate>Tue, 24 Sep 2019 21:11:00 PST</pubDate>
             <itunes:title>#23 Kady Kane and Will Terps</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#23 Kady Kane and Will Terps</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:20:34</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0023.kkane.wterps.mp3" type="audio/mpeg" length="77357056"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0023.kkane.wterps.mp3" type="audio/mpeg" length="77357056"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0022</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0022</guid>
             <title>#22 Farmer Dale talks about farming and I502 production</title>
-            <link>http://concerneddabspodcast.com/#0022</link>
+            <link>https://concerneddabspodcast.com/#0022</link>
             <description>#22 Farmer Dale talks about farming and I502 production</description>
             <pubDate>Tue, 17 Sep 2019 20:23:00 PST</pubDate>
             <itunes:title>#22 Farmer Dale talks about farming and I502 production</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#22 Farmer Dale talks about farming and I502 production</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>00:52:08</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0022.dale.mp3" type="audio/mpeg" length="50057216"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0022.dale.mp3" type="audio/mpeg" length="50057216"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0021</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0021</guid>
             <title>#21 Johnnie Walker on soil and aeroponics</title>
-            <link>http://concerneddabspodcast.com/#0021</link>
+            <link>https://concerneddabspodcast.com/#0021</link>
             <description>#21 Johnnie Walker on soil and aeroponics</description>
             <pubDate>Tue, 10 Sep 2019 21:00:00 PST</pubDate>
             <itunes:title>#21 Johnnie Walker on soil and aeroponics</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#21 Johnnie Walker on soil and aeroponics</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:21:26</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0021.jwalker.mp3" type="audio/mpeg" length="78188544"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0021.jwalker.mp3" type="audio/mpeg" length="78188544"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0020</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0020</guid>
             <title>#20 Drew Sweeney of Kasher Inc. talks about being an entrepreneur</title>
-            <link>http://concerneddabspodcast.com/#0020</link>
+            <link>https://concerneddabspodcast.com/#0020</link>
             <description>#20 Drew Sweeney of Kasher Inc. talks about being an entrepreneur</description>
             <pubDate>Mon, 02 Sep 2019 11:47:00 PST</pubDate>
             <itunes:title>#20 Drew Sweeney of Kasher Inc. talks about being an entrepreneur</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#20 Drew Sweeney of Kasher Inc. talks about being an entrepreneur</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:01:32</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0020.dsweeney.mp3" type="audio/mpeg" length="59088896"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0020.dsweeney.mp3" type="audio/mpeg" length="59088896"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0019</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0019</guid>
             <title>#19 Cannabis news with Kady Kane and Will Terps</title>
-            <link>http://concerneddabspodcast.com/#0019</link>
+            <link>https://concerneddabspodcast.com/#0019</link>
             <description>#19 Cannabis news with Kady Kane and Will Terps</description>
             <pubDate>Mon, 26 Aug 2019 20:00:00 PST</pubDate>
             <itunes:title>#19 Cannabis news with Kady Kane and Will Terps</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#19 Cannabis news with Kady Kane and Will Terps</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>00:59:39</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0019.kkane.wterps.mp3" type="audio/mpeg" length="57266176"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0019.kkane.wterps.mp3" type="audio/mpeg" length="57266176"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0018</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0018</guid>
             <title>#18 Max Early, State Director of Oregon Leaf Magazine</title>
-            <link>http://concerneddabspodcast.com/#0018</link>
+            <link>https://concerneddabspodcast.com/#0018</link>
             <description>#18 Max Early, State Director of Oregon Leaf Magazine</description>
             <pubDate>Mon, 19 Aug 2019 19:55:00 PST</pubDate>
             <itunes:title>#18 Max Early, State Director of Oregon Leaf Magazine</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#18 Max Early, State Director of Oregon Leaf Magazine</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:08:25</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0018.mearly.mp3" type="audio/mpeg" length="65683456"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0018.mearly.mp3" type="audio/mpeg" length="65683456"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0017</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0017</guid>
             <title>#17 Kramer talks about solvent extraction, hydrocarbons, and the oil game in Oregon</title>
-            <link>http://concerneddabspodcast.com/#0017</link>
+            <link>https://concerneddabspodcast.com/#0017</link>
             <description>#17 Kramer talks about solvent extraction, hydrocarbons, and the oil game in Oregon</description>
             <pubDate>Tue, 13 Aug 2019 21:58:00 PST</pubDate>
             <itunes:title>#17 Kramer talks about solvent extraction, hydrocarbons, and the oil game in Oregon</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#17 Kramer talks about solvent extraction, hydrocarbons, and the oil game in Oregon</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:18:02</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0017.kramer.mp3" type="audio/mpeg" length="74928128"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0017.kramer.mp3" type="audio/mpeg" length="74928128"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0016</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0016</guid>
             <title>#16 Kady Kane gives tips on passing a drug test, low-temp dabs, and cleaning a bong</title>
-            <link>http://concerneddabspodcast.com/#0016</link>
+            <link>https://concerneddabspodcast.com/#0016</link>
             <description>#16 Kady Kane gives tips on passing a drug test, low-temp dabs, and cleaning a bong</description>
             <pubDate>Mon, 5 Aug 2019 21:18:00 PST</pubDate>
             <itunes:title>#16 Kady Kane gives tips on passing a drug test, low-temp dabs, and cleaning a bong</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#16 Kady Kane gives tips on passing a drug test, low-temp dabs, and cleaning a bong</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>00:28:00</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0016.mp3" type="audio/mpeg" length="26890240"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0016.mp3" type="audio/mpeg" length="26890240"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0015</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0015</guid>
             <title>#15 Moss Da Beast of Beast Mode Music Group talks hosting cannabis events, music, and Nipsey Hussle</title>
-            <link>http://concerneddabspodcast.com/#0015</link>
+            <link>https://concerneddabspodcast.com/#0015</link>
             <description>#15 Moss Da Beast of Beast Mode Music Group talks hosting cannabis events, music, and Nipsey Hussle</description>
             <pubDate>Mon, 29 Jul 2019 10:42:00 PST</pubDate>
             <itunes:title>#15 Moss Da Beast of Beast Mode Music Group talks hosting cannabis events, music, and Nipsey Hussle</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#15 Moss Da Beast of Beast Mode Music Group talks hosting cannabis events, music, and Nipsey Hussle</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:34:21</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0015.mdbeast.mp3" type="audio/mpeg" length="90578944"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0015.mdbeast.mp3" type="audio/mpeg" length="90578944"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0014</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0014</guid>
             <title>#14 Lenny Volpe from Rootz Indoor Garden Supply</title>
-            <link>http://concerneddabspodcast.com/#0014</link>
+            <link>https://concerneddabspodcast.com/#0014</link>
             <description>#14 Lenny Volpe from Rootz Indoor Garden Supply</description>
             <pubDate>Tue, 23 Jul 2019 21:00:00 PST</pubDate>
             <itunes:title>#14 Lenny Volpe from Rootz Indoor Garden Supply</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#14 Lenny Volpe from Rootz Indoor Garden Supply</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:30:26</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0014.lvolpe.mp3" type="audio/mpeg" length="86835200"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0014.lvolpe.mp3" type="audio/mpeg" length="86835200"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0013</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0013</guid>
             <title>#13 Kaitlin Reed, Professor of Native American Studies at Humboldt State University, speaking about the ecological impacts of the Green Rush on California Indians</title>
-            <link>http://concerneddabspodcast.com/#0013</link>
+            <link>https://concerneddabspodcast.com/#0013</link>
             <description>#13 Kaitlin Reed, Professor of Native American Studies at Humboldt State University, speaking about the ecological impacts of the Green Rush on California Indians</description>
             <pubDate>Mon, 15 Jul 2019 21:00:00 PST</pubDate>
             <itunes:title>#13 Kaitlin Reed, Professor of Native American Studies at Humboldt State University, speaking about the ecological impacts of the Green Rush on California Indians</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#13 Kaitlin Reed, Professor of Native American Studies at Humboldt State University, speaking about the ecological impacts of the Green Rush on California Indians</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:20:25</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0013.kreed.mp3" type="audio/mpeg" length="77201408"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0013.kreed.mp3" type="audio/mpeg" length="77201408"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0012</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0012</guid>
             <title>#12 Ryan Lutz talks about multi-state production with Pollen Nation Elite Genetics, Elephant Extracts, Elephant Farms, and Sweet Leaf Extractors</title>
-            <link>http://concerneddabspodcast.com/#0012</link>
+            <link>https://concerneddabspodcast.com/#0012</link>
             <description>#12 Ryan Lutz talks about multi-state production with Pollen Nation Elite Genetics, Elephant Extracts, Elephant Farms, and Sweet Leaf Extractors</description>
             <pubDate>Mon, 8 Jul 2019 21:12:00 PST</pubDate>
             <itunes:title>#12 Ryan Lutz talks about multi-state production with Pollen Nation Elite Genetics, Elephant Extracts, Elephant Farms, and Sweet Leaf Extractors</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#12 Ryan Lutz talks about multi-state production with Pollen Nation Elite Genetics, Elephant Extracts, Elephant Farms, and Sweet Leaf Extractors</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:09:11</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0012.rlutz.mp3" type="audio/mpeg" length="66420736"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0012.rlutz.mp3" type="audio/mpeg" length="66420736"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0011</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0011</guid>
             <title>#11 Pig Farmer talks cannabis cultivation, coral reefs, and brown weed</title>
-            <link>http://concerneddabspodcast.com/#0011</link>
+            <link>https://concerneddabspodcast.com/#0011</link>
             <description>#11 Pig Farmer talks cannabis cultivation, coral reefs, and brown weed</description>
             <pubDate>Mon, 1 Jul 2019 22:15:00 PST</pubDate>
             <itunes:title>#11 Pig Farmer talks cannabis cultivation, coral reefs, and brown weed</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#11 Pig Farmer talks cannabis cultivation, coral reefs, and brown weed</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:59:50</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0011.pig.farmer.mp3" type="audio/mpeg" length="115056640"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0011.pig.farmer.mp3" type="audio/mpeg" length="115056640"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0010</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0010</guid>
             <title>#10 Kady Kane and Will Terps celebrate the tenth show</title>
-            <link>http://concerneddabspodcast.com/#0010</link>
+            <link>https://concerneddabspodcast.com/#0010</link>
             <description>#10 Kady Kane and Will Terps celebrate the tenth show</description>
             <pubDate>Mon, 24 Jun 2019 21:41:00 PST</pubDate>
             <itunes:title>#10 Kady Kane and Will Terps celebrate the tenth show</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#10 Kady Kane and Will Terps celebrate the tenth show</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:04:56</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0010.mp3" type="audio/mpeg" length="62337024"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0010.mp3" type="audio/mpeg" length="62337024"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0009</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0009</guid>
             <title>#9 One Eye RC, creator of Dog Walker OG</title>
-            <link>http://concerneddabspodcast.com/#0009</link>
+            <link>https://concerneddabspodcast.com/#0009</link>
             <description>#9 One Eye RC, creator of Dog Walker OG</description>
             <pubDate>Mon, 17 Jun 2019 21:28:00 PST</pubDate>
             <itunes:title>#9 One Eye RC, creator of Dog Walker OG</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#9 One Eye RC, creator of Dog Walker OG</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:11:39</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0009.oneeye.mp3" type="audio/mpeg" length="68796416"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0009.oneeye.mp3" type="audio/mpeg" length="68796416"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0008</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0008</guid>
             <title>#8 Budtending with Rich Axtell, LaRain Miller, and Kathryn Lipp</title>
-            <link>http://concerneddabspodcast.com/#0008</link>
+            <link>https://concerneddabspodcast.com/#0008</link>
             <description>#8 Budtending with Rich Axtell, LaRain Miller, and Kathryn Lipp</description>
             <pubDate>Mon, 10 Jun 2019 21:26:00 PST</pubDate>
             <itunes:title>#8 Budtending with Rich Axtell, LaRain Miller, and Kathryn Lipp</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#8 Budtending with Rich Axtell, LaRain Miller, and Kathryn Lipp</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:28:47</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0008.raxtell.lmiller.klipp.mp3" type="audio/mpeg" length="93675520"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0008.raxtell.lmiller.klipp.mp3" type="audio/mpeg" length="93675520"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0007</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0007</guid>
             <title>#7 Jason Ortiz of Minority Cannabis Business Association talks regulation and legislature</title>
-            <link>http://concerneddabspodcast.com/#0007</link>
+            <link>https://concerneddabspodcast.com/#0007</link>
             <description>#7 Jason Ortiz of Minority Cannabis Business Associationtalks regulation and legislature</description>
             <pubDate>Mon, 3 Jun 2019 21:26:00 PST</pubDate>
             <itunes:title>#7 Jason Ortiz of Minority Cannabis Business Associationtalks regulation and legislature</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#7 Jason Ortiz of Minority Cannabis Business Associationtalks regulation and legislature</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:28:47</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0007.jortiz.mp3" type="audio/mpeg" length="84586496"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0007.jortiz.mp3" type="audio/mpeg" length="84586496"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0006</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0006</guid>
             <title>#6 Lab testing with Paul Swift of Chem History and Anthony Smith of EVIO Labs</title>
-            <link>http://concerneddabspodcast.com/#0006</link>
+            <link>https://concerneddabspodcast.com/#0006</link>
             <description>#6 Lab testing with Paul Swift of Chem History and Anthony Smith of EVIO Labs</description>
             <pubDate>Mon, 27 May 2019 18:11:00 PST</pubDate>
             <itunes:title>#6 Lab testing with Paul Swift of Chem History and Anthony Smith of EVIO Labs</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#6 Lab testing with Paul Swift of Chem History and Anthony Smith of EVIO Labs</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:24:00</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0006.pswift.asmith.mp3" type="audio/mpeg" length="80654336"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0006.pswift.asmith.mp3" type="audio/mpeg" length="80654336"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0005</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0005</guid>
             <title>#5 Breeding with Elephant Smiley and Noah Bentley</title>
-            <link>http://concerneddabspodcast.com/#0005</link>
+            <link>https://concerneddabspodcast.com/#0005</link>
             <description>#5 Breeding with Elephant Smiley and Noah Bentley</description>
             <pubDate>Mon, 20 May 2019 21:31:00 PST</pubDate>
             <itunes:title>#5 Breeding with Elephant Smiley and Noah Bentley</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#5 Breeding with Elephant Smiley and Noah Bentley</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:46:12</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0005.esmiley.nbentley.mp3" type="audio/mpeg" length="101965824"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0005.esmiley.nbentley.mp3" type="audio/mpeg" length="101965824"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0004</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0004</guid>
             <title>#4 Solventless Extraction with Anthony O'Bannon</title>
-            <link>http://concerneddabspodcast.com/#0004</link>
+            <link>https://concerneddabspodcast.com/#0004</link>
             <description>#4 Solventless Extraction with Anthony O'Bannon</description>
             <pubDate>Sun, 12 May 2019 22:24:00 PST</pubDate>
             <itunes:title>#4 Solventless Extraction with Anthony O'Bannon</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#4 Solventless Extraction with Anthony O'Bannon</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:01:01</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0004.aobannon.mp3" type="audio/mpeg" length="58589184"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0004.aobannon.mp3" type="audio/mpeg" length="58589184"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0003</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0003</guid>
             <title>#3 Solvent Extraction with Kady Kane and Will Terps</title>
-            <link>http://concerneddabspodcast.com/#0003</link>
+            <link>https://concerneddabspodcast.com/#0003</link>
             <description>#3 Solvent Extraction with Kady Kane and Will Terps</description>
             <pubDate>Sun, 05 May 2019 22:32:00 PST</pubDate>
             <itunes:title>#3 Solvent Extraction with Kady Kane and Will Terps</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#3 Solvent Extraction with Kady Kane and Will Terps</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:01:04</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0003.mp3" type="audio/mpeg" length="58630144"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0003.mp3" type="audio/mpeg" length="58630144"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0002</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0002</guid>
             <title>#2 Cultivation with Noah Bentley of Salvation Farms and Joshua Steensland of Steensland Consulting</title>
-            <link>http://concerneddabspodcast.com/#0002</link>
+            <link>https://concerneddabspodcast.com/#0002</link>
             <description>#2 Cultivation with Noah Bentley of Salvation Farms and Joshua Steensland of Steensland Consulting</description>
             <pubDate>Mon, 29 Apr 2019 20:16:00 PST</pubDate>
             <itunes:title>#2 Cultivation with Noah Bentley of Salvation Farms and Joshua Steensland of Steensland Consulting</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#2 Cultivation with Noah Bentley of Salvation Farms and Joshua Steensland of Steensland Consulting</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:03:05</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0002.nbentley.jsteensland.mp3" type="audio/mpeg" length="60563456"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0002.nbentley.jsteensland.mp3" type="audio/mpeg" length="60563456"/>
         </item>
         <item>
-            <guid isPermaLink="false">http://concerneddabspodcast.com/#0001</guid>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0001</guid>
             <title>#1 Retail with Jackson McCormack of Natural Wonders, Josh Galbraith of Kaya Shack</title>
-            <link>http://concerneddabspodcast.com/#0001</link>
+            <link>https://concerneddabspodcast.com/#0001</link>
             <description>#1 Retail with Jackson McCormack of Natural Wonders, Josh Galbraith of Kaya Shack</description>
             <pubDate>Sun, 21 Apr 2019 21:40:00 PST</pubDate>
             <itunes:title>#1 Retail with Jackson McCormack of Natural Wonders, Josh Galbraith of Kaya Shack</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#1 Retail with Jackson McCormack of Natural Wonders, Josh Galbraith of Kaya Shack</itunes:summary>
-            <itunes:image href="http://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
             <itunes:duration>01:27:36</itunes:duration>
-            <enclosure url="http://concerneddabspodcast.com/media/show/cdp.0001.jmccormack.jgalbraith.mp3" type="audio/mpeg" length="84107264"/>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0001.jmccormack.jgalbraith.mp3" type="audio/mpeg" length="84107264"/>
         </item>
     </channel>
 </rss>
