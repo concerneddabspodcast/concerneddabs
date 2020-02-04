@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Tue, 28 Jan 2020 20:22:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 3 Feb 2020 20:36:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0042</guid>
+            <title>#42 Brooks B talks about video game design and cannabis consumption in California</title>
+            <link>https://concerneddabspodcast.com/#0041</link>
+            <description>#42 Brooks B talks about video game design and cannabis consumption in California</description>
+            <pubDate>Mon, 3 Feb 2020 20:36:00 PST</pubDate>
+            <itunes:title>#42 Brooks B talks about video game design and cannabis consumption in California</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#42 Brooks B talks about video game design and cannabis consumption in California</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:59:22</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0042.brooksb.mp3" type="audio/mpeg" length="56995840"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0041</guid>
             <title>#41 Short Sleeved Magician talks about breeding for terpenes</title>
