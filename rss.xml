@@ -35,9 +35,23 @@
             <link>https://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0043</guid>
+            <title>#43 Lee Henry talks about opening a brewery and the legalization of cannabis</title>
+            <link>https://concerneddabspodcast.com/#0043</link>
+            <description>#43 Lee Henry talks about opening a brewery and the legalization of cannabis</description>
+            <pubDate>Mon, 3 Feb 2020 20:36:00 PST</pubDate>
+            <itunes:title>#43 Lee Henry talks about opening a brewery and the legalization of cannabis</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#43 Lee Henry talks about opening a brewery and the legalization of cannabis</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:11:23</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0043.lhenry.mp3" type="audio/mpeg" length="68534272"/>
+        </item>
+        <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0042</guid>
             <title>#42 Brooks B talks about video game design and cannabis consumption in California</title>
-            <link>https://concerneddabspodcast.com/#0041</link>
+            <link>https://concerneddabspodcast.com/#0042</link>
             <description>#42 Brooks B talks about video game design and cannabis consumption in California</description>
             <pubDate>Mon, 3 Feb 2020 20:36:00 PST</pubDate>
             <itunes:title>#42 Brooks B talks about video game design and cannabis consumption in California</itunes:title>
