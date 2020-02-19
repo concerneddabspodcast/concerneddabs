@@ -35,11 +35,25 @@
             <link>https://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0044</guid>
+            <title>#44 Josh Galbraith talks about cannabis distribution methods and hemp</title>
+            <link>https://concerneddabspodcast.com/#0044</link>
+            <description>#44 Josh Galbraith talks about cannabis distribution methods and hemp</description>
+            <pubDate>Tue, 18 Feb 2020 20:10:00 PST</pubDate>
+            <itunes:title>#44 Josh Galbraith talks about cannabis distribution methods and hemp</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#44 Josh Galbraith talks about cannabis distribution methods and hemp</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:04:10</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0044.jgalbraith.mp3" type="audio/mpeg" length="61612032"/>
+        </item>
+        <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0043</guid>
             <title>#43 Lee Henry talks about opening a brewery and the legalization of cannabis</title>
             <link>https://concerneddabspodcast.com/#0043</link>
             <description>#43 Lee Henry talks about opening a brewery and the legalization of cannabis</description>
-            <pubDate>Mon, 3 Feb 2020 20:36:00 PST</pubDate>
+            <pubDate>Tue, 11 Feb 2020 20:36:00 PST</pubDate>
             <itunes:title>#43 Lee Henry talks about opening a brewery and the legalization of cannabis</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#43 Lee Henry talks about opening a brewery and the legalization of cannabis</itunes:summary>
