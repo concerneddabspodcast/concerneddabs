@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Mon, 24 Feb 2020 21:13:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 2 Mar 2020 20:20:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0046</guid>
+            <title>#46 Johnny Walker talking about Johnny Walker Green and MMJ in Washington State</title>
+            <link>https://concerneddabspodcast.com/#0045</link>
+            <description>#46 Johnny Walker talking about Johnny Walker Green and MMJ in Washington State</description>
+            <pubDate>Mon, 2 Mar 2020 20:20:00 PST</pubDate>
+            <itunes:title>#46 Johnny Walker talking about Johnny Walker Green and MMJ in Washington State</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#46 Johnny Walker talking about Johnny Walker Green and MMJ in Washington State</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:07:10</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0046.jwalker.mp3" type="audio/mpeg" length="64495616"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0045</guid>
             <title>#45 KayVee and OH BOY! Kali Luv from Sex and Strains Review Company talk marketing strategy</title>
