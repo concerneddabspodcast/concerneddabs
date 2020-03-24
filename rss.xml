@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Mon, 2 Mar 2020 20:20:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2020 19:46:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -34,6 +34,34 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0049</guid>
+            <title>#49 Willie Animal speaking about The Bakery Recording Studio, entrepreneurship, and cannabis culture</title>
+            <link>https://concerneddabspodcast.com/#0049</link>
+            <description>#49 Willie Animal speaking about The Bakery Recording Studio, entrepreneurship, and cannabis culture</description>
+            <pubDate>Mon, 23 Mar 2020 19:46:00 PST</pubDate>
+            <itunes:title>#49 Willie Animal speaking about The Bakery Recording Studio, entrepreneurship, and cannabis culture</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#49 Willie Animal speaking about The Bakery Recording Studio, entrepreneurship, and cannabis culture</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:54:13</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0049.wanimal.mp3" type="audio/mpeg" length="52060160"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0048</guid>
+            <title>#48 Deekon Jones speaking about Healing With HipHop, his book, and music endeavors</title>
+            <link>https://concerneddabspodcast.com/#0048</link>
+            <description>#48 Deekon Jones speaking about Healing With HipHop, his book, and music endeavors</description>
+            <pubDate>Mon, 16 Mar 2020 19:25:00 PST</pubDate>
+            <itunes:title>#48 Deekon Jones speaking about Healing With HipHop, his book, and music endeavors</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#48 Deekon Jones speaking about Healing With HipHop, his book, and music endeavors</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:58:52</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0048.djones.mp3" type="audio/mpeg" length="56524800"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0047</guid>
             <title>#47 Kady Kane talking cannabis news</title>
