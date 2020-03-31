@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Mon, 23 Mar 2020 19:46:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2020 17:37:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0050</guid>
+            <title>#50 On One speaking about his new album Good Afternoon America and cannabis culture in Spokane, WA</title>
+            <link>https://concerneddabspodcast.com/#0050</link>
+            <description>#50 On One speaking about his new album Good Afternoon America and cannabis culture in Spokane, WA</description>
+            <pubDate>Mon, 30 Mar 2020 17:37:00 PST</pubDate>
+            <itunes:title>#50 On One speaking about his new album Good Afternoon America and cannabis culture in Spokane, WA</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#50 On One speaking about his new album Good Afternoon America and cannabis culture in Spokane, WA</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:04:11</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0050.onone.mp3" type="audio/mpeg" length="61624320"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0049</guid>
             <title>#49 Willie Animal speaking about The Bakery Recording Studio, entrepreneurship, and cannabis culture</title>
