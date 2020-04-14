@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Mon, 30 Mar 2020 17:37:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2020 19:09:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -34,6 +34,34 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0052</guid>
+            <title>#52 Hitman from Stank Boyz Seeds speaking about cannabis breeding and legalization in Oklahoma</title>
+            <link>https://concerneddabspodcast.com/#0052</link>
+            <description>#52 Hitman from Stank Boyz Seeds speaking about cannabis breeding and legalization in Oklahoma</description>
+            <pubDate>Mon, 13 Apr 2020 19:09:00 PST</pubDate>
+            <itunes:title>#52 Hitman from Stank Boyz Seeds speaking about cannabis breeding and legalization in Oklahoma</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#52 Hitman from Stank Boyz Seeds speaking about cannabis breeding and legalization in Oklahoma</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:57:11</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0052.hitman.mp3" type="audio/mpeg" length="54906880"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0051</guid>
+            <title>#51 Chinga America, CEO of Ching America Films, OH BOY! Kali Luv, and CT Terror speak on urban films, Gnaja Boy and The Cannabis Culture on YouTube</title>
+            <link>https://concerneddabspodcast.com/#0051</link>
+            <description>#51 Chinga America, CEO of Ching America Films, OH BOY! Kali Luv, and CT Terror speak on urban films, Gnaja Boy and The Cannabis Culture on YouTube</description>
+            <pubDate>Mon, 6 Apr 2020 18:03:00 PST</pubDate>
+            <itunes:title>#51 Chinga America, CEO of Ching America Films, OH BOY! Kali Luv, and CT Terror speak on urban films, Gnaja Boy and The Cannabis Culture on YouTube</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#51 Chinga America, CEO of Ching America Films, OH BOY! Kali Luv, and CT Terror speak on urban films, Gnaja Boy and The Cannabis Culture on YouTube</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:59:45</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0051.camerica.obkluv.ctterror.mp3" type="audio/mpeg" length="57372672"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0050</guid>
             <title>#50 On One speaking about his new album Good Afternoon America and cannabis culture in Spokane, WA</title>
