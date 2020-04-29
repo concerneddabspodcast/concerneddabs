@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Tue, 21 Apr 2020 19:41:00 PST</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2020 20:16:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0054</guid>
+            <title>#54 Kay Vee from Game Newz Inc speaking about marketing</title>
+            <link>https://concerneddabspodcast.com/#0054</link>
+            <description>#54 Kay Vee from Game Newz Inc speaking about marketing</description>
+            <pubDate>Tue, 28 Apr 2020 20:16:00 PST</pubDate>
+            <itunes:title>#54 Kay Vee from Game Newz Inc speaking about marketing</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#54 Kay Vee from Game Newz Inc speaking about marketing</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:03:12</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0054.kayvee.mp3" type="audio/mpeg" length="60686336"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0053</guid>
             <title>#53 Kady Kady talks cannabis news</title>
