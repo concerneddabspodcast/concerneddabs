@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Tue, 28 Apr 2020 20:16:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 4 May 2020 20:19:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0055</guid>
+            <title>#55 CT Terror a.k.a. 'Slick' from Ganja Boy speaking about movies, music, and cannabis</title>
+            <link>https://concerneddabspodcast.com/#0055</link>
+            <description>#55 CT Terror a.k.a. 'Slick' from Ganja Boy speaking about movies, music, and cannabis</description>
+            <pubDate>Mon, 4 May 2020 20:19:00 PST</pubDate>
+            <itunes:title>#55 CT Terror a.k.a. 'Slick' from Ganja Boy speaking about movies, music, and cannabis</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#55 CT Terror a.k.a. 'Slick' from Ganja Boy speaking about movies, music, and cannabis</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:15:18</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0054.kayvee.mp3" type="audio/mpeg" length="72306688"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0054</guid>
             <title>#54 Kay Vee from Game Newz Inc speaking about marketing</title>
