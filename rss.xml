@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Mon, 18 May 2020 19:31:00 PST</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2020 18:24:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0058</guid>
+            <title>#58 Lady Furnish speaking about Social Equity in the cannabis industry</title>
+            <link>https://concerneddabspodcast.com/#0058</link>
+            <description>#58 Lady Furnish speaking about Social Equity in the cannabis industry</description>
+            <pubDate>Tue, 26 May 2020 18:24:00 PST</pubDate>
+            <itunes:title>#58 Lady Furnish speaking about Social Equity in the cannabis industry</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#58 Lady Furnish speaking about Social Equity in the cannabis industry</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:58:28</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0058.lfurnish.mp3" type="audio/mpeg" length="56135680"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0057</guid>
             <title>#57 True Justice speaking about his new album 'Ambivalence' and cannabis culture in Spokane, WA</title>
