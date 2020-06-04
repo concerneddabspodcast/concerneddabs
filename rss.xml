@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Tue, 26 May 2020 18:24:00 PST</lastBuildDate>
+        <lastBuildDate>Wed, 3 Jun 2020 18:52:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0059</guid>
+            <title>#59 Kady Kane speaking on cannabis news</title>
+            <link>https://concerneddabspodcast.com/#0059</link>
+            <description>#59 Kady Kane speaking on cannabis news</description>
+            <pubDate>Wed, 3 Jun 2020 18:52:00 PST</pubDate>
+            <itunes:title>#59 Kady Kane speaking on cannabis news</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#59 Kady Kane speaking on cannabis news</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:37:26</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0059.kkane.mp3" type="audio/mpeg" length="35946496"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0058</guid>
             <title>#58 Lady Furnish speaking about Social Equity in the cannabis industry</title>
