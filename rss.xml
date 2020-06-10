@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Wed, 3 Jun 2020 18:52:00 PST</lastBuildDate>
+        <lastBuildDate>Tue, 9 Jun 2020 18:59:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0060</guid>
+            <title>#60 Zito speaking on his career as an actor, musician, and publisher</title>
+            <link>https://concerneddabspodcast.com/#0060</link>
+            <description>#60 Zito speaking on his career as an actor, musician, and publisher</description>
+            <pubDate>Tue, 9 Jun 2020 18:59:00 PST</pubDate>
+            <itunes:title>#60 Zito speaking on his career as an actor, musician, and publisher</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#60 Zito speaking on his career as an actor, musician, and publisher</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:07:19</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0060.zito.mp3" type="audio/mpeg" length="64634880"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0059</guid>
             <title>#59 Kady Kane speaking on cannabis news</title>
