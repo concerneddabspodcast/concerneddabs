@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Tue, 9 Jun 2020 18:59:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2020 20:10:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0062</guid>
+            <title>#62 Amanda Furbee speaking about The Herb Shoppe PDX and being a successful entrepreneur</title>
+            <link>https://concerneddabspodcast.com/#0062</link>
+            <description>#62 Amanda Furbee speaking about The Herb Shoppe PDX and being a successful entrepreneur</description>
+            <pubDate>Mon, 22 Jun 2020 20:10:00 PST</pubDate>
+            <itunes:title>#62 Amanda Furbee speaking about The Herb Shoppe PDX and being a successful entrepreneur</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#62 Amanda Furbee speaking about The Herb Shoppe PDX and being a successful entrepreneur</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:09:17</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0062.afurbee.mp3" type="audio/mpeg" length="66519040"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0061</guid>
             <title>#61 Smurf Luchiano speaking about 2 Real Records and cannabis culture on the West concerneddabspodcast</title>
