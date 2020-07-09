@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Mon, 22 Jun 2020 20:10:00 PST</lastBuildDate>
+        <lastBuildDate>Mon, 6 Jul 2020 16:57:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -23,7 +23,7 @@
         </itunes:summary>
         <itunes:explicit>yes</itunes:explicit>
         <itunes:category text="Society &amp; Culture"/>
-        <itunes:category text="Education"/>
+        <itunes:category text="Education"/>`
         <itunes:category text="Technology"/>
         <itunes:category text="News &amp; Politics"/>
         <itunes:type>episodic</itunes:type>
@@ -34,6 +34,34 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0064</guid>
+            <title>#64 Did not air</title>
+            <link>https://concerneddabspodcast.com/#0064</link>
+            <description>#64 Did not air</description>
+            <pubDate>Mon, 6 Jul 2020 16:57:00 PST</pubDate>
+            <itunes:title>#64 Did not air</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#64 Did not air</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:00:00</itunes:duration>
+            <enclosure url="" type="audio/mpeg" length="0"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0063</guid>
+            <title>#63 Ryan Craig speaking about "You Love Who You Love" premiering at the Lumbee Film Festival</title>
+            <link>https://concerneddabspodcast.com/#0063</link>
+            <description>#63 Ryan Craig speaking about "You Love Who You Love" premiering at the Lumbee Film Festival</description>
+            <pubDate>Tue, 30 Jun 2020 20:00:00 PST</pubDate>
+            <itunes:title>#63 Ryan Craig speaking about "You Love Who You Love" premiering at the Lumbee Film Festival</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#63 Ryan Craig speaking about "You Love Who You Love" premiering at the Lumbee Film Festival</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:24:09</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0063.rcraig.mp3" type="audio/mpeg" length="80793600"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0062</guid>
             <title>#62 Amanda Furbee speaking about The Herb Shoppe PDX and being a successful entrepreneur</title>
