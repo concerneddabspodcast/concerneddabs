@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Mon, 6 Jul 2020 16:57:00 PST</lastBuildDate>
+        <lastBuildDate>Sun, 2 Aug 2020 16:00:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -17,7 +17,7 @@
             <itunes:email>podcast@concerneddabspodcast.com</itunes:email>`
         </itunes:owner>
         <itunes:author>Concerned Dabs Podcast</itunes:author>
-        <itunes:subtitle>Cannabis industry and culture including commentary and interviews</itunes:subtitle>
+        <itunes:subtitle>Entertainment with a cannabis flair</itunes:subtitle>
         <itunes:summary>
             <![CDATA[<p>Cannabis industry and culture including commentary and interviews https://concerneddabspodcast.com/</p>]]>
         </itunes:summary>
@@ -34,6 +34,34 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0068</guid>
+            <title>#68 LaMar Trenton speaking about his production company "Who Made this?"</title>
+            <link>https://concerneddabspodcast.com/#0068</link>
+            <description>#68 LaMar Trenton speaking about his production company "Who Made this?"</description>
+            <pubDate>Sun, 2 Aug 2020 20:00:00 PST</pubDate>
+            <itunes:title>#68 LaMar Trenton speaking about his production company "Who Made this?"</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#68 LaMar Trenton speaking about his production company "Who Made this?"</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:01:45</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0068.ltrenton.mp3" type="audio/mpeg" length="59289600"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0067</guid>
+            <title>#67 Tai Simpson speaking about Our Murdered and missing Indigenous Women and the Black Lives Matter movement</title>
+            <link>https://concerneddabspodcast.com/#0067</link>
+            <description>#67 Tai Simpson speaking about Our Murdered and missing Indigenous Women and the Black Lives Matter movement</description>
+            <pubDate>Sun, 26 Jul 2020 20:00:00 PST</pubDate>
+            <itunes:title>#67 Tai Simpson speaking about Our Murdered and missing Indigenous Women and the Black Lives Matter movement</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#67 Tai Simpson speaking about Our Murdered and missing Indigenous Women and the Black Lives Matter movement</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:12:44</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0067.tsimpson.mp3" type="audio/mpeg" length="69832704"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0066</guid>
             <title>#66 Keegan Smith speaking about his music career, awareness, and theories on the world</title>
