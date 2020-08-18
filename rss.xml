@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Sun, 2 Aug 2020 16:00:00 PST</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2020 20:00:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -34,6 +34,34 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0070</guid>
+            <title>#70 Tyrant speaking about his music and the Burn Country Compilation</title>
+            <link>https://concerneddabspodcast.com/#0070</link>
+            <description>#70 Tyrant speaking about his music and the Burn Country Compilation</description>
+            <pubDate>Sun, 16 Aug 2020 20:00:00 PST</pubDate>
+            <itunes:title>#70 Tyrant speaking about his music and the Burn Country Compilation</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#70 Tyrant speaking about his music and the Burn Country Compilation</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:16:17</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0070.tyrant.mp3" type="audio/mpeg" length="73244672"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0069</guid>
+            <title>#69 Marcus Harding</title>
+            <link>https://concerneddabspodcast.com/#0069</link>
+            <description>#69 Marcus Harding</description>
+            <pubDate>Sun, 9 Aug 2020 20:00:00 PST</pubDate>
+            <itunes:title>#69 Marcus Harding</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#69 Marcus Harding</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:47:02</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0069.mharding.mp3" type="audio/mpeg" length="45162496"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0068</guid>
             <title>#68 LaMar Trenton speaking about his production company "Who Made this?"</title>
