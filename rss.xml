@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Sun, 16 Aug 2020 20:00:00 PST</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2020 20:00:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0071</guid>
+            <title>#71 Ibeth Hernandez speaking about Chapters Alumni and her latest endeavors</title>
+            <link>https://concerneddabspodcast.com/#0071</link>
+            <description>#71 Ibeth Hernandez speaking about Chapters Alumni and her latest endeavors</description>
+            <pubDate>Sun, 23 Aug 2020 20:00:00 PST</pubDate>
+            <itunes:title>#71 Ibeth Hernandez speaking about Chapters Alumni and her latest endeavors</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#71 Ibeth Hernandez speaking about Chapters Alumni and her latest endeavors</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:18:54</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0071.ihernandez.mp3" type="audio/mpeg" length="75751424"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0070</guid>
             <title>#70 Tyrant speaking about his music and the Burn Country Compilation</title>
