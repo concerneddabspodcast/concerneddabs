@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Sun, 23 Aug 2020 20:00:00 PST</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2020 20:00:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0072</guid>
+            <title>#72 True Justice speaking about Beers, Bongs, and Bullsh*t Podcast and upcoming projects</title>
+            <link>https://concerneddabspodcast.com/#0072</link>
+            <description>#72 True Justice speaking about Beers, Bongs, and Bullsh*t Podcast and upcoming projects</description>
+            <pubDate>Sun, 30 Aug 2020 20:00:00 PST</pubDate>
+            <itunes:title>#72 True Justice speaking about Beers, Bongs, and Bullsh*t Podcast and upcoming projects</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#72 True Justice speaking about Beers, Bongs, and Bullsh*t Podcast and upcoming projects</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:00:06</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0072.tjustice.mp3" type="audio/mpeg" length="57700352"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0071</guid>
             <title>#71 Ibeth Hernandez speaking about Chapters Alumni and her latest endeavors</title>
