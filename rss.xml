@@ -35,6 +35,20 @@
             <link>https://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0073</guid>
+            <title>#73 Stacia Morfin speaking about Nez Perce Tourism, LLC</title>
+            <link>https://concerneddabspodcast.com/#0073</link>
+            <description>#73 Stacia Morfin speaking about Nez Perce Tourism, LLC</description>
+            <pubDate>Sun, 6 Sep 2020 20:00:00 PST</pubDate>
+            <itunes:title>#73 Stacia Morfin speaking about Nez Perce Tourism, LLC</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#73 Stacia Morfin speaking about Nez Perce Tourism, LLC</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:03:05</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0073.smorfin.mp3" type="audio/mpeg" length="60575744"/>
+        </item>
+        <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0072</guid>
             <title>#72 True Justice speaking about Beers, Bongs, and Bullsh*t Podcast and upcoming projects</title>
             <link>https://concerneddabspodcast.com/#0072</link>
