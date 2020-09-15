@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Sun, 30 Aug 2020 20:00:00 PST</lastBuildDate>
+        <lastBuildDate>Sun, 13 Sep 2020 20:00:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0074</guid>
+            <title>#74 Big P aka Torpedo Jones speaking about his music career, cannabis culture in Spokane, and Beers, Bongs, and Bullshit Podcast</title>
+            <link>https://concerneddabspodcast.com/#0074</link>
+            <description>#74 Big P aka Torpedo Jones speaking about his music career, cannabis culture in Spokane, and Beers, Bongs, and Bullshit Podcast</description>
+            <pubDate>Sun, 13 Sep 2020 20:00:00 PST</pubDate>
+            <itunes:title>#74 Big P aka Torpedo Jones speaking about his music career, cannabis culture in Spokane, and Beers, Bongs, and Bullshit Podcast</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#74 Big P aka Torpedo Jones speaking about his music career, cannabis culture in Spokane, and Beers, Bongs, and Bullshit Podcast</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:08:49</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0074.bigp.mp3" type="audio/mpeg" length="66072576"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0073</guid>
             <title>#73 Stacia Morfin speaking about Nez Perce Tourism, LLC</title>
