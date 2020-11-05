@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Sun, 18 Oct 2020 20:00:00 PST</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2020 20:00:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0080</guid>
+            <title>#80 Rose City Miss Chief speaking about her music career, real estate, and sherhyme.com</title>
+            <link>https://concerneddabspodcast.com/#0080</link>
+            <description>#80 Rose City Miss Chief speaking about her music career, real estate, and sherhyme.com</description>
+            <pubDate>Sun, 25 Oct 2020 20:00:00 PST</pubDate>
+            <itunes:title>#80 Rose City Miss Chief speaking about her music career, real estate, and sherhyme.com</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#80 Rose City Miss Chief speaking about her music career, real estate, and sherhyme.com</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:18:58</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0080.rcmchief.mp3" type="audio/mpeg" length="75816960"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0079</guid>
             <title>#79 Dr. Daniel Emmett speaking about medicinal cannabis and mental health</title>
