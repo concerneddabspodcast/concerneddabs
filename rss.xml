@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Sun, 11 Oct 2020 20:00:00 PST</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2020 20:00:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -35,6 +35,20 @@
             <link>https://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0079</guid>
+            <title>#79 Dr. Daniel Emmett speaking about medicinal cannabis and mental health</title>
+            <link>https://concerneddabspodcast.com/#0079</link>
+            <description>#79 Dr. Daniel Emmett speaking about medicinal cannabis and mental health</description>
+            <pubDate>Sun, 18 Oct 2020 20:00:00 PST</pubDate>
+            <itunes:title>#79 Dr. Daniel Emmett speaking about medicinal cannabis and mental health</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#79 Dr. Daniel Emmett speaking about medicinal cannabis and mental health</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:03:56</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0079.dremmett.mp3" type="audio/mpeg" length="61386752"/>
+        </item>
+        <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0078</guid>
             <title>#78 B-12 speaking about his music mogul career as well as his ReUp and Fresh Air brands</title>
             <link>https://concerneddabspodcast.com/#0078</link>
@@ -45,7 +59,7 @@
             <itunes:summary>#78 B-12 speaking about his music mogul career as well as his ReUp and Fresh Air brands</itunes:summary>
             <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
             <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
-            <itunes:duration>01:02:29</itunes:duration>
+            <itunes:duration>02:02:29</itunes:duration>
             <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0078.b12.mp3" type="audio/mpeg" length="117587968"/>
         </item>
         <item>
