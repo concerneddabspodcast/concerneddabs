@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Sun, 1 Nov 2020 20:00:00 PST</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2020 20:00:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -35,11 +35,25 @@
             <link>https://concerneddabspodcast.com</link>
         </image>
         <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0083</guid>
+            <title>#83 Brown Guy 420 speaking about Solo Scientific LLC and his line of CBN and D8 products</title>
+            <link>https://concerneddabspodcast.com/#0083</link>
+            <description>#83 Brown Guy 420 speaking about Solo Scientific LLC and his line of CBN and D8 products</description>
+            <pubDate>Sun, 15 Nov 2020 20:00:00 PST</pubDate>
+            <itunes:title>#83 Brown Guy 420 speaking about Solo Scientific LLC and his line of CBN and D8 products</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#83 Brown Guy 420 speaking about Solo Scientific LLC and his line of CBN and D8 products</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>01:09:08</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0083.bg420.mp3" type="audio/mpeg" length="66375680"/>
+        </item>
+        <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0082</guid>
             <title>#82 Miss Kitti Karma speaking about sex work and her acting career</title>
             <link>https://concerneddabspodcast.com/#0082</link>
             <description>#82 Miss Kitti Karma speaking about sex work and her acting career</description>
-            <pubDate>Sun, 1 Nov 2020 20:00:00 PST</pubDate>
+            <pubDate>Sun, 8 Nov 2020 20:00:00 PST</pubDate>
             <itunes:title>#82 Miss Kitti Karma speaking about sex work and her acting career</itunes:title>
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:summary>#82 Miss Kitti Karma speaking about sex work and her acting career</itunes:summary>
