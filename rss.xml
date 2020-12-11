@@ -7,7 +7,7 @@
         <title>Concerned Dabs Podcast</title>
         <link>https://concerneddabspodcast.com</link>
         <description>Cannabis industry and culture including commentary and interviews</description>
-        <lastBuildDate>Sun, 15 Nov 2020 20:00:00 PST</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2020 20:00:00 PST</lastBuildDate>
         <language>en-us</language>
         <copyright>
             &#x2117; &amp; &#xA9; 2020 Concerned Dabs Podcast
@@ -34,6 +34,20 @@
             <title>Concerned Dabs Podcast</title>
             <link>https://concerneddabspodcast.com</link>
         </image>
+        <item>
+            <guid isPermaLink="false">https://concerneddabspodcast.com/#0084</guid>
+            <title>#84 Kady Kane setting up his tent</title>
+            <link>https://concerneddabspodcast.com/#0084</link>
+            <description>#84 Kady Kane setting up his tent</description>
+            <pubDate>Sun, 22 Nov 2020 20:00:00 PST</pubDate>
+            <itunes:title>#84 Kady Kane setting up his tent</itunes:title>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:summary>#84 Kady Kane setting up his tent</itunes:summary>
+            <itunes:image href="https://concerneddabspodcast.com/media/image/logos/concerned-dabs-podcast-logo.jpg"/>
+            <itunes:keywords>Concerned Dabs Podcast, Cannabis, Discussion, Culture</itunes:keywords>
+            <itunes:duration>00:04:30</itunes:duration>
+            <enclosure url="https://concerneddabspodcast.com/media/show/cdp.0084.kkane.mp3" type="audio/mpeg" length="4333568"/>
+        </item>
         <item>
             <guid isPermaLink="false">https://concerneddabspodcast.com/#0083</guid>
             <title>#83 Brown Guy 420 speaking about Solo Scientific LLC and his line of CBN and D8 products</title>
